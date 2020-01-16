@@ -1,22 +1,4 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=Sayma_RTM_RFSoC.PrjPCB
-[Project2]
-ProjectPath=..\..\..\datasheets\FPGA\Zynq RFSOC\Imported\Imported HW-FMC-XM500_V1.0.PrjPcb\HW-FMC-XM500_V1.0.PrjPcb
-[Project3]
-ProjectPath=..\..\..\datasheets\FPGA\Zynq RFSOC\Imported\Imported hw-z1-zcu111_rev1_0.PrjPcb\hw-z1-zcu111_rev1_0.PrjPcb
-[Project4]
-ProjectPath=..\SINARA\Sayma_AFEs\TestMod\TestMod_SEAx\TestMod_SEAx.PrjPCB
-[Project5]
-ProjectPath=..\..\..\datasheets\FPGA\Zynq RFSOC\zcu111-allegro-board-source-rdf0467\Imported 1280976_HW-Z1-ZCU111_REV-1_0.PrjPcb\1280976_HW-Z1-ZCU111_REV-1_0.PrjPcb
-[Project6]
-ProjectPath=..\AFCZ_AD18\Imported AFCZ.PrjPcb\AFCZ.PrjPcb
-[Project7]
-ProjectPath=..\SINARA\Sayma_AFEs\TestMod\TestMod_SEAx_Base\TestMod_SEAx_Base.PrjPcb
-[Project8]
-ProjectPath=..\uTCA_RTM_4_SFP_3QSFP\RTM_4SFP_3QSFP\RTM_4SFP_3QSFP.PrjPcb
-[Project9]
-ProjectPath=..\SINARA\Imported Sayma_RTM.PrjPcb\Sayma_RTM.PrjPcb
-[Project10]
-ProjectPath=..\SINARA\Imported AD18 ARTIQ.PrjPcb\ARTIQ.PrjPcb
+ProjectPath=RFSoC-AMC.PrjPCB
