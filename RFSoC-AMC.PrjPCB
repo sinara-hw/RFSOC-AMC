@@ -1,6 +1,6 @@
 [Design]
 Version=1.0
-HierarchyMode=0
+HierarchyMode=2
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -21,14 +21,14 @@ UserID=0xFFFFFFFF
 DefaultPcbProtel=1
 DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
-NameNetsHierarchically=0
+NameNetsHierarchically=1
 PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for RFSoC-AMC
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -38,6 +38,227 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=soc.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MTFUOTCY
+
+[Document2]
+DocumentPath=SoC_FPGA_Config_0.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=41
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NDEIGBUK
+
+[Document3]
+DocumentPath=SoC_FPGA_64_65_66_DDR4.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=38
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HHYVVACY
+
+[Document4]
+DocumentPath=SoC_FPGA_67_68_69_DDR4.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=39
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FHUKQKKH
+
+[Document5]
+DocumentPath=SoC_FPGA_HD_84_87.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=42
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FJLCQAWU
+
+[Document6]
+DocumentPath=SoC_FPGA_128-131_GTY.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=40
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RCWUIOIE
+
+[Document7]
+DocumentPath=SoC_224-229_ADC_DAC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=36
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VOUFOPGD
+
+[Document8]
+DocumentPath=SoC_PS_500_501_502_MIO.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=43
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BMBRENWL
+
+[Document9]
+DocumentPath=SoC_PS_Config_503.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=46
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IETKVUHG
+
+[Document10]
+DocumentPath=SoC_PS_504_DDR4.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=44
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MTBRMTEL
+
+[Document11]
+DocumentPath=SoC_PS_505_GTR.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=45
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VUHBJIAQ
+
+[Document12]
+DocumentPath=SoC_Supply.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=47
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BHNIJJUK
+
+[Document13]
+DocumentPath=SoC_Supply_GND.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=60
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LDFDKWOA
+
+[Document14]
 DocumentPath=DDR4_SDRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GGYXXFNV
 
-[Document2]
+[Document15]
 DocumentPath=DDR4_SDRAM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +292,58 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document3]
+[Document16]
+DocumentPath=FPGA_7A35T.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=58
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CWQGNBCG
+
+[Document17]
+DocumentPath=FPGA_7A35T_GTP.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=59
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ATMWIACW
+
+[Document18]
+DocumentPath=FPGA_7A35T_POWER.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=61
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BEQSJPUX
+
+[Document19]
 DocumentPath=RF_AFE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OPLWDKCW
 
-[Document4]
+[Document20]
 DocumentPath=RF_AFE.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,14 +377,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document21]
 DocumentPath=ADC_PLL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=19
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -122,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PWQOQPMR
 
-[Document6]
+[Document22]
 DocumentPath=DAC_PLL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,24 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IBVABYYL
 
-[Document7]
-DocumentPath=Clocking_SI5341B.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=10
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PKSCFWOH
-
-[Document8]
+[Document23]
 DocumentPath=Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HKOQOTIX
 
-[Document9]
+[Document24]
 DocumentPath=Supply_LDOs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGNMPQVD
 
-[Document10]
+[Document25]
 DocumentPath=Supply_CORE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +462,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFDQMNOB
 
-[Document11]
+[Document26]
+DocumentPath=SI5324_CDR_WR_oscillators.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=35
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QKAYEIUA
+
+[Document27]
 DocumentPath=AMS_CLOCK.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,48 +496,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHVGGKBY
 
-[Document12]
-DocumentPath=RTM_Connector.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=17
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TGVHKFVX
-
-[Document13]
-DocumentPath=RTM_Connector.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document14]
+[Document28]
 DocumentPath=PWR_SEPIC_P12V_N12V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=32
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -275,14 +513,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LTOFLBUP
 
-[Document15]
+[Document29]
 DocumentPath=PWR_SEPIC_N6V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=31
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -292,14 +530,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAHMLWHF
 
-[Document16]
+[Document30]
 DocumentPath=PWR_BUCK_6V_8A.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=30
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -309,14 +547,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HCRTULQM
 
-[Document17]
+[Document31]
 DocumentPath=ETH_PHY_SW_L2L3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=24
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -326,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XQOXVKGL
 
-[Document18]
+[Document32]
 DocumentPath=ETH_PHY_SW_L2L3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,14 +581,31 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document33]
+DocumentPath=RTM_Connector.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=17
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TGVHKFVX
+
+[Document34]
 DocumentPath=AMC_Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=20
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -360,14 +615,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPKLUHPV
 
-[Document20]
+[Document35]
 DocumentPath=CPU_LPC1776_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=22
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -377,14 +632,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VFATERQV
 
-[Document21]
+[Document36]
 DocumentPath=CPU_LPC1776_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=23
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -394,14 +649,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WSHXOADV
 
-[Document22]
+[Document37]
 DocumentPath=I2C_MUX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=26
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -411,14 +666,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GAPPJUDH
 
-[Document23]
+[Document38]
 DocumentPath=M-LVDS_PHY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=28
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -428,14 +683,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QKITNPOY
 
-[Document24]
+[Document39]
 DocumentPath=Power_Management_2FMC_RTM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=29
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -445,31 +700,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LXHYFGDB
 
-[Document25]
-DocumentPath=RGMII_PHY.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RWCYWMJA
-
-[Document26]
+[Document40]
 DocumentPath=SD_CARD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=34
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -479,14 +717,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXRTHTYF
 
-[Document27]
+[Document41]
 DocumentPath=Thermometers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=48
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -496,14 +734,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTBUAALG
 
-[Document28]
+[Document42]
 DocumentPath=USB_SERIAL_QUAD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=51
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -513,24 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFLICSIX
 
-[Document29]
-DocumentPath=WR_clocks.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CTPEMCBM
-
-[Document30]
+[Document43]
 DocumentPath=M-LVDS_PHY.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document44]
 DocumentPath=AMC_Connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,24 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
-DocumentPath=SoC_Supply.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BHNIJJUK
-
-[Document33]
+[Document45]
 DocumentPath=I2C_MUX.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document46]
 DocumentPath=SD_CARD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,24 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
-DocumentPath=Extender_FPGA.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KCDUPOTO
-
-[Document36]
+[Document47]
 DocumentPath=USB_SERIAL_QUAD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document48]
 DocumentPath=CPU_LPC1776_1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +853,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document49]
 DocumentPath=Thermometers.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,14 +870,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document50]
 DocumentPath=ADC_DAC_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=18
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -700,7 +887,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DRRBIAUY
 
-[Document40]
+[Document51]
 DocumentPath=DAC_PLL.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,347 +904,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
-DocumentPath=Clocking_SI5341B.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document42]
-DocumentPath=ADC_DAC_Supply.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document43]
-DocumentPath=SoC_FPGA_Config_0.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NDEIGBUK
-
-[Document44]
-DocumentPath=SoC_PS_Config_503.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IETKVUHG
-
-[Document45]
-DocumentPath=SoC_FPGA_HD_84_87.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FJLCQAWU
-
-[Document46]
-DocumentPath=SoC_FPGA_67_68_69_DDR4.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document47]
-DocumentPath=SoC_FPGA_64_65_66_DDR4.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TQPOJQQY
-
-[Document48]
-DocumentPath=SoC_FPGA_64_65_66_DDR4.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document49]
-DocumentPath=SoC_FPGA_67_68_69_DDR4.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FHUKQKKH
-
-[Document50]
-DocumentPath=SoC_FPGA_128-131_GTY.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RCWUIOIE
-
-[Document51]
-DocumentPath=SoC_FPGA_128-131_GTY.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Document52]
-DocumentPath=SoC_PS_500_501_502_MIO.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BMBRENWL
-
-[Document53]
-DocumentPath=SoC_PS_500_501_502_MIO.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document54]
-DocumentPath=SoC_PS_504_DDR4.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MTBRMTEL
-
-[Document55]
-DocumentPath=SoC_PS_504_DDR4.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document56]
-DocumentPath=SoC_PS_505_GTR.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QMPJHOKX
-
-[Document57]
-DocumentPath=SoC_PS_505_GTR.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document58]
-DocumentPath=SoC_224-229_ADC_DAC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VOUFOPGD
-
-[Document59]
-DocumentPath=SoC_224-229_ADC_DAC.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document60]
-DocumentPath=SoC_FPGA_HD_84_87.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document61]
 DocumentPath=AMS_CLOCK.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1074,14 +921,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
-DocumentPath=ZYNQ_US_SOC_PL.SchDoc
+[Document53]
+DocumentPath=USB3_CON.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=49
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1089,16 +936,16 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SMPKQJSB
+DocumentUniqueId=LJRYDFFJ
 
-[Document63]
-DocumentPath=ZYNQ_US_SOC_PS.SchDoc
+[Document54]
+DocumentPath=USB_PHY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=50
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1106,94 +953,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DWJSROVE
+DocumentUniqueId=NCEHLKIV
 
-[Document64]
-DocumentPath=SI5324_CDR_WR_oscillators.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QKAYEIUA
-
-[Document65]
-DocumentPath=SI5324_CDR_WR_oscillators.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document66]
-DocumentPath=Extender_FPGA.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document67]
-DocumentPath=SoC_FPGA_Config_0.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document68]
-DocumentPath=SoC_PS_Config_503.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document69]
+[Document55]
 DocumentPath=soc.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1210,7 +972,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document70]
+[Document56]
 DocumentPath=CPU_LPC1776_2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1227,14 +989,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document71]
+[Document57]
 DocumentPath=JTAG_Configuration.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=27
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1244,7 +1006,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWOSHJAM
 
-[Document72]
+[Document58]
 DocumentPath=JTAG_Configuration.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1261,8 +1023,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document73]
-DocumentPath=USB3_CON.SchDoc
+[Document59]
+DocumentPath=ADC_PLL.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1276,10 +1038,248 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LJRYDFFJ
+DocumentUniqueId=
+
+[Document60]
+DocumentPath=VCCINT_IO_BRAM_PS.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=52
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WCDOINBD
+
+[Document61]
+DocumentPath=artix_supply.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=21
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BLKCFVSD
+
+[Document62]
+DocumentPath=Clocking_SI5341B.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=57
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KMPAOOKS
+
+[Document63]
+DocumentPath=Clocking_SI5341B.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document64]
+DocumentPath=RTM_Connector.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document65]
+DocumentPath=Sayma_AMC_RFSoC.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UAAMLLDU
+
+[Document66]
+DocumentPath=SoC_FPGA_Config_0.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document67]
+DocumentPath=SoC_FPGA_64_65_66_DDR4.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document68]
+DocumentPath=SoC_FPGA_67_68_69_DDR4.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document69]
+DocumentPath=SoC_FPGA_HD_84_87.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document70]
+DocumentPath=SoC_FPGA_128-131_GTY.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document71]
+DocumentPath=SoC_224-229_ADC_DAC.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document72]
+DocumentPath=SoC_PS_500_501_502_MIO.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document73]
+DocumentPath=SoC_PS_Config_503.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Document74]
-DocumentPath=USB3_CON.Harness
+DocumentPath=SoC_PS_505_GTR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1296,7 +1296,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document75]
-DocumentPath=USB_PHY.SchDoc
+DocumentPath=USB3_CON.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1310,7 +1310,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NCEHLKIV
+DocumentUniqueId=
 
 [Document76]
 DocumentPath=USB_PHY.Harness
@@ -1330,7 +1330,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document77]
-DocumentPath=ADC_PLL.Harness
+DocumentPath=SI5324_CDR_WR_oscillators.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1347,13 +1347,13 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document78]
-DocumentPath=SoC_Decoupling.SchDoc
+DocumentPath=SoC_Decoupling_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=63
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1361,10 +1361,27 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JFHTFKUA
+DocumentUniqueId=JKGKRNIC
 
 [Document79]
-DocumentPath=RFSOC_AMC.OutJob
+DocumentPath=SoC_Decoupling.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=64
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KXETJQIY
+
+[Document80]
+DocumentPath=SoC_PS_504_DDR4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1380,25 +1397,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document80]
-DocumentPath=FPGA_SDRAM1.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MMYQFGNK
-
 [Document81]
-DocumentPath=FPGA_SDRAM1.Harness
+DocumentPath=FPGA_7A35T.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1415,7 +1415,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document82]
-DocumentPath=FPGA_SDRAM2.SchDoc
+DocumentPath=FPGA_7A35T_GTP.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1429,10 +1429,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HHYVVACY
+DocumentUniqueId=
 
 [Document83]
-DocumentPath=FPGA_SDRAM2.Harness
+DocumentPath=Supply_CORE.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1449,24 +1449,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document84]
-DocumentPath=GTY_Transceivers.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XNRIHLXA
-
-[Document85]
-DocumentPath=GTY_Transceivers.Harness
+DocumentPath=Power_Management_2FMC_RTM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1482,216 +1465,364 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document86]
-DocumentPath=PS_DDR.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MPFAASOF
+[ProjectVariant1]
+UniqueID=25ACE4FC-D9BE-4A01-A3DE-ACF747A9559C
+Description=Si549 LVDS
+AllowFabrication=0
+ParameterCount=0
+VariationCount=48
+Variation1=Designator=R508|UniqueId=\VAITLAUO\DGWGWQUP|Kind=1|AlternatePart= 
+Variation2=Designator=R509|UniqueId=\VAITLAUO\WNUUNNYC|Kind=1|AlternatePart= 
+Variation3=Designator=R503|UniqueId=\VAITLAUO\ZNKHOZOT|Kind=1|AlternatePart= 
+Variation4=Designator=R510|UniqueId=\VAITLAUO\SGIESMJB|Kind=1|AlternatePart= 
+Variation5=Designator=R506|UniqueId=\VAITLAUO\OOLTZZYI|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=Resistor - 1%|AltLibLink_DesignItemID=R0402_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue==Value
+ParamDesignator1=R506
+ParamVariation2=ParameterName=Case|VariantValue=0402
+ParamDesignator2=R506
+ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator3=R506
+ParamVariation4=ParameterName=Component Type|VariantValue=Standard
+ParamDesignator4=R506
+ParamVariation5=ParameterName=CreateDate|VariantValue=03.12.2007
+ParamDesignator5=R506
+ParamVariation6=ParameterName=Database Table Name|VariantValue=Resistors SMD
+ParamDesignator6=R506
+ParamVariation7=ParameterName=Description|VariantValue=Resistor
+ParamDesignator7=R506
+ParamVariation8=ParameterName=Footprint|VariantValue=RESC1005X40N
+ParamDesignator8=R506
+ParamVariation9=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf
+ParamDesignator9=R506
+ParamVariation10=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator10=R506
+ParamVariation11=ParameterName=LatestRevisionDate|VariantValue=17.10.2012
+ParamDesignator11=R506
+ParamVariation12=ParameterName=Library Reference|VariantValue=R0402_0R_JUMPER
+ParamDesignator12=R506
+ParamVariation13=ParameterName=Manufacturer|VariantValue=GENERIC
+ParamDesignator13=R506
+ParamVariation14=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.4mm
+ParamDesignator14=R506
+ParamVariation15=ParameterName=Manufacturer1 Example|VariantValue=YAGEO PHYCOMP
+ParamDesignator15=R506
+ParamVariation16=ParameterName=Manufacturer1 Part Number|VariantValue=232270591001L
+ParamDesignator16=R506
+ParamVariation17=ParameterName=Manufacturer Part Number|VariantValue=R0402_0R_JUMPER
+ParamDesignator17=R506
+ParamVariation18=ParameterName=Mounted|VariantValue=Yes
+ParamDesignator18=R506
+ParamVariation19=ParameterName=Part Description|VariantValue=1A (0.05R Max DC Resistance) Zero Ohm Jumper
+ParamDesignator19=R506
+ParamVariation20=ParameterName=Part Number|VariantValue=R0402_0R_JUMPER
+ParamDesignator20=R506
+ParamVariation21=ParameterName=PCB3D|VariantValue= 
+ParamDesignator21=R506
+ParamVariation22=ParameterName=Pin Count|VariantValue=2
+ParamDesignator22=R506
+ParamVariation23=ParameterName=Pin Info|VariantValue= 
+ParamDesignator23=R506
+ParamVariation24=ParameterName=PressFit|VariantValue=No
+ParamDesignator24=R506
+ParamVariation25=ParameterName=Sense|VariantValue=No
+ParamDesignator25=R506
+ParamVariation26=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator26=R506
+ParamVariation27=ParameterName=Simulation|VariantValue= 
+ParamDesignator27=R506
+ParamVariation28=ParameterName=SMD|VariantValue=Yes
+ParamDesignator28=R506
+ParamVariation29=ParameterName=Socket|VariantValue=No
+ParamDesignator29=R506
+ParamVariation30=ParameterName=Status|VariantValue=Not Recommended
+ParamDesignator30=R506
+ParamVariation31=ParameterName=Value|VariantValue=0
+ParamDesignator31=R506
+Variation6=Designator=R500|UniqueId=\VAITLAUO\CJHVTNHA|Kind=1|AlternatePart= 
+Variation7=Designator=R485|UniqueId=\VAITLAUO\QEIJFAHA|Kind=1|AlternatePart= 
+Variation8=Designator=R486|UniqueId=\VAITLAUO\YTARRUXG|Kind=1|AlternatePart= 
+Variation9=Designator=C592|UniqueId=\VAITLAUO\WBXSHGBI|Kind=1|AlternatePart= 
+Variation10=Designator=R482|UniqueId=\VAITLAUO\MQWQIJAT|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=Resistor - 1%|AltLibLink_DesignItemID=R0402_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
+ParamVariation32=ParameterName=Comment|VariantValue==Value
+ParamDesignator32=R482
+ParamVariation33=ParameterName=Case|VariantValue=0402
+ParamDesignator33=R482
+ParamVariation34=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator34=R482
+ParamVariation35=ParameterName=Component Type|VariantValue=Standard
+ParamDesignator35=R482
+ParamVariation36=ParameterName=CreateDate|VariantValue=03.12.2007
+ParamDesignator36=R482
+ParamVariation37=ParameterName=Database Table Name|VariantValue=Resistors SMD
+ParamDesignator37=R482
+ParamVariation38=ParameterName=Description|VariantValue=Resistor
+ParamDesignator38=R482
+ParamVariation39=ParameterName=Footprint|VariantValue=RESC1005X40N
+ParamDesignator39=R482
+ParamVariation40=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf
+ParamDesignator40=R482
+ParamVariation41=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator41=R482
+ParamVariation42=ParameterName=LatestRevisionDate|VariantValue=17.10.2012
+ParamDesignator42=R482
+ParamVariation43=ParameterName=Library Reference|VariantValue=R0402_0R_JUMPER
+ParamDesignator43=R482
+ParamVariation44=ParameterName=Manufacturer|VariantValue=GENERIC
+ParamDesignator44=R482
+ParamVariation45=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.4mm
+ParamDesignator45=R482
+ParamVariation46=ParameterName=Manufacturer1 Example|VariantValue=YAGEO PHYCOMP
+ParamDesignator46=R482
+ParamVariation47=ParameterName=Manufacturer1 Part Number|VariantValue=232270591001L
+ParamDesignator47=R482
+ParamVariation48=ParameterName=Manufacturer Part Number|VariantValue=R0402_0R_JUMPER
+ParamDesignator48=R482
+ParamVariation49=ParameterName=Mounted|VariantValue=Yes
+ParamDesignator49=R482
+ParamVariation50=ParameterName=Part Description|VariantValue=1A (0.05R Max DC Resistance) Zero Ohm Jumper
+ParamDesignator50=R482
+ParamVariation51=ParameterName=Part Number|VariantValue=R0402_0R_JUMPER
+ParamDesignator51=R482
+ParamVariation52=ParameterName=PCB3D|VariantValue= 
+ParamDesignator52=R482
+ParamVariation53=ParameterName=Pin Count|VariantValue=2
+ParamDesignator53=R482
+ParamVariation54=ParameterName=Pin Info|VariantValue= 
+ParamDesignator54=R482
+ParamVariation55=ParameterName=PressFit|VariantValue=No
+ParamDesignator55=R482
+ParamVariation56=ParameterName=Sense|VariantValue=No
+ParamDesignator56=R482
+ParamVariation57=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator57=R482
+ParamVariation58=ParameterName=Simulation|VariantValue= 
+ParamDesignator58=R482
+ParamVariation59=ParameterName=SMD|VariantValue=Yes
+ParamDesignator59=R482
+ParamVariation60=ParameterName=Socket|VariantValue=No
+ParamDesignator60=R482
+ParamVariation61=ParameterName=Status|VariantValue=Not Recommended
+ParamDesignator61=R482
+ParamVariation62=ParameterName=Value|VariantValue=0
+ParamDesignator62=R482
+Variation11=Designator=R298|UniqueId=\VAITLAUO\AQEXTSXV|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=Resistor - 1%|AltLibLink_DesignItemID=R0402_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
+ParamVariation63=ParameterName=Comment|VariantValue==Value
+ParamDesignator63=R298
+ParamVariation64=ParameterName=Case|VariantValue=0402
+ParamDesignator64=R298
+ParamVariation65=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator65=R298
+ParamVariation66=ParameterName=Component Type|VariantValue=Standard
+ParamDesignator66=R298
+ParamVariation67=ParameterName=CreateDate|VariantValue=03.12.2007
+ParamDesignator67=R298
+ParamVariation68=ParameterName=Database Table Name|VariantValue=Resistors SMD
+ParamDesignator68=R298
+ParamVariation69=ParameterName=Description|VariantValue=Resistor
+ParamDesignator69=R298
+ParamVariation70=ParameterName=Footprint|VariantValue=RESC1005X40N
+ParamDesignator70=R298
+ParamVariation71=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf
+ParamDesignator71=R298
+ParamVariation72=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator72=R298
+ParamVariation73=ParameterName=LatestRevisionDate|VariantValue=17.10.2012
+ParamDesignator73=R298
+ParamVariation74=ParameterName=Library Reference|VariantValue=R0402_0R_JUMPER
+ParamDesignator74=R298
+ParamVariation75=ParameterName=Manufacturer|VariantValue=GENERIC
+ParamDesignator75=R298
+ParamVariation76=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.4mm
+ParamDesignator76=R298
+ParamVariation77=ParameterName=Manufacturer1 Example|VariantValue=YAGEO PHYCOMP
+ParamDesignator77=R298
+ParamVariation78=ParameterName=Manufacturer1 Part Number|VariantValue=232270591001L
+ParamDesignator78=R298
+ParamVariation79=ParameterName=Manufacturer Part Number|VariantValue=R0402_0R_JUMPER
+ParamDesignator79=R298
+ParamVariation80=ParameterName=Mounted|VariantValue=Yes
+ParamDesignator80=R298
+ParamVariation81=ParameterName=Part Description|VariantValue=1A (0.05R Max DC Resistance) Zero Ohm Jumper
+ParamDesignator81=R298
+ParamVariation82=ParameterName=Part Number|VariantValue=R0402_0R_JUMPER
+ParamDesignator82=R298
+ParamVariation83=ParameterName=PCB3D|VariantValue= 
+ParamDesignator83=R298
+ParamVariation84=ParameterName=Pin Count|VariantValue=2
+ParamDesignator84=R298
+ParamVariation85=ParameterName=Pin Info|VariantValue= 
+ParamDesignator85=R298
+ParamVariation86=ParameterName=PressFit|VariantValue=No
+ParamDesignator86=R298
+ParamVariation87=ParameterName=Sense|VariantValue=No
+ParamDesignator87=R298
+ParamVariation88=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator88=R298
+ParamVariation89=ParameterName=Simulation|VariantValue= 
+ParamDesignator89=R298
+ParamVariation90=ParameterName=SMD|VariantValue=Yes
+ParamDesignator90=R298
+ParamVariation91=ParameterName=Socket|VariantValue=No
+ParamDesignator91=R298
+ParamVariation92=ParameterName=Status|VariantValue=Not Recommended
+ParamDesignator92=R298
+ParamVariation93=ParameterName=Value|VariantValue=0
+ParamDesignator93=R298
+Variation12=Designator=R466|UniqueId=\VAITLAUO\AXJSDXQE|Kind=1|AlternatePart= 
+Variation13=Designator=C572|UniqueId=\VAITLAUO\KTBXYFAD|Kind=1|AlternatePart= 
+Variation14=Designator=C574|UniqueId=\VAITLAUO\OQCFPFGS|Kind=1|AlternatePart= 
+Variation15=Designator=R467|UniqueId=\VAITLAUO\KRHNBGMR|Kind=1|AlternatePart= 
+Variation16=Designator=R229|UniqueId=\UETKLNPN\NEXJKCNG|Kind=1|AlternatePart= 
+Variation17=Designator=R514|UniqueId=\GGHXXARZ\JVBUZYAY|Kind=1|AlternatePart= 
+Variation18=Designator=R515|UniqueId=\GGHXXARZ\ILCQPPWU|Kind=1|AlternatePart= 
+Variation19=Designator=C921|UniqueId=\NULGEYWV\QOCMNMQV|Kind=1|AlternatePart= 
+Variation20=Designator=C922|UniqueId=\NULGEYWV\IAXGGESK|Kind=1|AlternatePart= 
+Variation21=Designator=C920|UniqueId=\NULGEYWV\FGJHHBQS|Kind=1|AlternatePart= 
+Variation22=Designator=C919|UniqueId=\NULGEYWV\DHRQSWXB|Kind=1|AlternatePart= 
+Variation23=Designator=C918|UniqueId=\NULGEYWV\OOKHTHLX|Kind=1|AlternatePart= 
+Variation24=Designator=C917|UniqueId=\NULGEYWV\QLYEYUPZ|Kind=1|AlternatePart= 
+Variation25=Designator=C916|UniqueId=\NULGEYWV\HGBYXJWG|Kind=1|AlternatePart= 
+Variation26=Designator=C915|UniqueId=\NULGEYWV\PWYANFFU|Kind=1|AlternatePart= 
+Variation27=Designator=C923|UniqueId=\CQQPCJVZ\JFHCQHJH|Kind=1|AlternatePart= 
+Variation28=Designator=C924|UniqueId=\CQQPCJVZ\UWRZSJCB|Kind=1|AlternatePart= 
+Variation29=Designator=C925|UniqueId=\CQQPCJVZ\GELFWFDY|Kind=1|AlternatePart= 
+Variation30=Designator=C926|UniqueId=\CQQPCJVZ\TJOBXOFV|Kind=1|AlternatePart= 
+Variation31=Designator=C316_U_ADC_PLL1|UniqueId=\AMRILONG\ZNYJKUZX|Kind=1|AlternatePart= 
+Variation32=Designator=C315_U_ADC_PLL1|UniqueId=\AMRILONG\PVNJWJGD|Kind=1|AlternatePart= 
+Variation33=Designator=R166_U_ADC_PLL1|UniqueId=\AMRILONG\YELROLIY|Kind=1|AlternatePart= 
+Variation34=Designator=R166_U_ADC_PLL2|UniqueId=\PUHVFAIK\YELROLIY|Kind=1|AlternatePart= 
+Variation35=Designator=C316_U_ADC_PLL2|UniqueId=\PUHVFAIK\ZNYJKUZX|Kind=1|AlternatePart= 
+Variation36=Designator=C315_U_ADC_PLL2|UniqueId=\PUHVFAIK\PVNJWJGD|Kind=1|AlternatePart= 
+Variation37=Designator=R92|UniqueId=\LBQOEYVB\HZXSBAUI|Kind=1|AlternatePart= 
+Variation38=Designator=C178|UniqueId=\LBQOEYVB\CZVRUTKS|Kind=1|AlternatePart= 
+Variation39=Designator=C177|UniqueId=\LBQOEYVB\WWMLMJLS|Kind=1|AlternatePart= 
+Variation40=Designator=C556|UniqueId=\VAITLAUO\RSPRTNLJ|Kind=1|AlternatePart= 
+Variation41=Designator=C562|UniqueId=\VAITLAUO\MAMIBSMJ|Kind=1|AlternatePart= 
+Variation42=Designator=R?|UniqueId=\FUURERMJ\FGJGBQMV|Kind=1|AlternatePart= 
+Variation43=Designator=C?|UniqueId=\FUURERMJ\CZLOXGMK|Kind=1|AlternatePart= 
+Variation44=Designator=R?|UniqueId=\FUURERMJ\DIYURRGQ|Kind=1|AlternatePart= 
+Variation45=Designator=R?|UniqueId=\FUURERMJ\APCDQRAS|Kind=1|AlternatePart= 
+Variation46=Designator=R65|UniqueId=\FUURERMJ\IPAEMWVB|Kind=1|AlternatePart= 
+Variation47=Designator=R?|UniqueId=\IXSNIESF\CXQCHWPP|Kind=1|AlternatePart= 
+Variation48=Designator=R?|UniqueId=\IXSNIESF\DOZAGKMQ|Kind=1|AlternatePart= 
+ParamVariationCount=93
 
-[Document87]
-DocumentPath=PS_DDR.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document88]
-DocumentPath=RFSOC_AMC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MTFUOTCY
-
-[Document89]
-DocumentPath=Sayma_AMC_RFSoC.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UAAMLLDU
-
-[Document90]
-DocumentPath=SoC_ADC_DAC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YTDQKWNK
-
-[Document91]
-DocumentPath=SoC_ADC_DAC.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document92]
-DocumentPath=SoC_GTR.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VUHBJIAQ
-
-[Document93]
-DocumentPath=SoC_GTR.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document94]
-DocumentPath=SoC_PS.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LYVTFXDA
-
-[Document95]
-DocumentPath=SoC_PS.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document96]
-DocumentPath=WR_Clocking.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WKSFBSMM
-
-[Document97]
-DocumentPath=RFSOC_AMC.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
+[ProjectVariant2]
+UniqueID=FECD5DB2-8784-433A-94BD-B173D94B5882
+Description=Si549 CMOS
+AllowFabrication=0
+ParameterCount=0
+VariationCount=44
+Variation1=Designator=R508|UniqueId=\VAITLAUO\DGWGWQUP|Kind=1|AlternatePart= 
+Variation2=Designator=R509|UniqueId=\VAITLAUO\WNUUNNYC|Kind=1|AlternatePart= 
+Variation3=Designator=R506|UniqueId=\VAITLAUO\OOLTZZYI|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=Resistor - 1%|AltLibLink_DesignItemID=R0402_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue==Value
+ParamDesignator1=R506
+ParamVariation2=ParameterName=Case|VariantValue=0402
+ParamDesignator2=R506
+ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator3=R506
+ParamVariation4=ParameterName=Component Type|VariantValue=Standard
+ParamDesignator4=R506
+ParamVariation5=ParameterName=CreateDate|VariantValue=03.12.2007
+ParamDesignator5=R506
+ParamVariation6=ParameterName=Database Table Name|VariantValue=Resistors SMD
+ParamDesignator6=R506
+ParamVariation7=ParameterName=Description|VariantValue=Resistor
+ParamDesignator7=R506
+ParamVariation8=ParameterName=Footprint|VariantValue=RESC1005X40N
+ParamDesignator8=R506
+ParamVariation9=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf
+ParamDesignator9=R506
+ParamVariation10=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator10=R506
+ParamVariation11=ParameterName=LatestRevisionDate|VariantValue=17.10.2012
+ParamDesignator11=R506
+ParamVariation12=ParameterName=Library Reference|VariantValue=R0402_0R_JUMPER
+ParamDesignator12=R506
+ParamVariation13=ParameterName=Manufacturer|VariantValue=GENERIC
+ParamDesignator13=R506
+ParamVariation14=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.4mm
+ParamDesignator14=R506
+ParamVariation15=ParameterName=Manufacturer1 Example|VariantValue=YAGEO PHYCOMP
+ParamDesignator15=R506
+ParamVariation16=ParameterName=Manufacturer1 Part Number|VariantValue=232270591001L
+ParamDesignator16=R506
+ParamVariation17=ParameterName=Manufacturer Part Number|VariantValue=R0402_0R_JUMPER
+ParamDesignator17=R506
+ParamVariation18=ParameterName=Mounted|VariantValue=Yes
+ParamDesignator18=R506
+ParamVariation19=ParameterName=Part Description|VariantValue=1A (0.05R Max DC Resistance) Zero Ohm Jumper
+ParamDesignator19=R506
+ParamVariation20=ParameterName=Part Number|VariantValue=R0402_0R_JUMPER
+ParamDesignator20=R506
+ParamVariation21=ParameterName=PCB3D|VariantValue= 
+ParamDesignator21=R506
+ParamVariation22=ParameterName=Pin Count|VariantValue=2
+ParamDesignator22=R506
+ParamVariation23=ParameterName=Pin Info|VariantValue= 
+ParamDesignator23=R506
+ParamVariation24=ParameterName=PressFit|VariantValue=No
+ParamDesignator24=R506
+ParamVariation25=ParameterName=Sense|VariantValue=No
+ParamDesignator25=R506
+ParamVariation26=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator26=R506
+ParamVariation27=ParameterName=Simulation|VariantValue= 
+ParamDesignator27=R506
+ParamVariation28=ParameterName=SMD|VariantValue=Yes
+ParamDesignator28=R506
+ParamVariation29=ParameterName=Socket|VariantValue=No
+ParamDesignator29=R506
+ParamVariation30=ParameterName=Status|VariantValue=Not Recommended
+ParamDesignator30=R506
+ParamVariation31=ParameterName=Value|VariantValue=0
+ParamDesignator31=R506
+Variation4=Designator=R500|UniqueId=\VAITLAUO\CJHVTNHA|Kind=1|AlternatePart= 
+Variation5=Designator=R503|UniqueId=\VAITLAUO\ZNKHOZOT|Kind=1|AlternatePart= 
+Variation6=Designator=R486|UniqueId=\VAITLAUO\YTARRUXG|Kind=1|AlternatePart= 
+Variation7=Designator=R485|UniqueId=\VAITLAUO\QEIJFAHA|Kind=1|AlternatePart= 
+Variation8=Designator=C556|UniqueId=\VAITLAUO\RSPRTNLJ|Kind=1|AlternatePart= 
+Variation9=Designator=C562|UniqueId=\VAITLAUO\MAMIBSMJ|Kind=1|AlternatePart= 
+Variation10=Designator=R466|UniqueId=\VAITLAUO\AXJSDXQE|Kind=1|AlternatePart= 
+Variation11=Designator=R467|UniqueId=\VAITLAUO\KRHNBGMR|Kind=1|AlternatePart= 
+Variation12=Designator=C574|UniqueId=\VAITLAUO\OQCFPFGS|Kind=1|AlternatePart= 
+Variation13=Designator=C572|UniqueId=\VAITLAUO\KTBXYFAD|Kind=1|AlternatePart= 
+Variation14=Designator=R229|UniqueId=\UETKLNPN\NEXJKCNG|Kind=1|AlternatePart= 
+Variation15=Designator=C315_U_ADC_PLL1|UniqueId=\AMRILONG\PVNJWJGD|Kind=1|AlternatePart= 
+Variation16=Designator=C315_U_ADC_PLL2|UniqueId=\PUHVFAIK\PVNJWJGD|Kind=1|AlternatePart= 
+Variation17=Designator=C316_U_ADC_PLL1|UniqueId=\AMRILONG\ZNYJKUZX|Kind=1|AlternatePart= 
+Variation18=Designator=C316_U_ADC_PLL2|UniqueId=\PUHVFAIK\ZNYJKUZX|Kind=1|AlternatePart= 
+Variation19=Designator=C915|UniqueId=\NULGEYWV\PWYANFFU|Kind=1|AlternatePart= 
+Variation20=Designator=C916|UniqueId=\NULGEYWV\HGBYXJWG|Kind=1|AlternatePart= 
+Variation21=Designator=C917|UniqueId=\NULGEYWV\QLYEYUPZ|Kind=1|AlternatePart= 
+Variation22=Designator=C918|UniqueId=\NULGEYWV\OOKHTHLX|Kind=1|AlternatePart= 
+Variation23=Designator=C919|UniqueId=\NULGEYWV\DHRQSWXB|Kind=1|AlternatePart= 
+Variation24=Designator=C920|UniqueId=\NULGEYWV\FGJHHBQS|Kind=1|AlternatePart= 
+Variation25=Designator=C921|UniqueId=\NULGEYWV\QOCMNMQV|Kind=1|AlternatePart= 
+Variation26=Designator=C923|UniqueId=\CQQPCJVZ\JFHCQHJH|Kind=1|AlternatePart= 
+Variation27=Designator=C922|UniqueId=\NULGEYWV\IAXGGESK|Kind=1|AlternatePart= 
+Variation28=Designator=C924|UniqueId=\CQQPCJVZ\UWRZSJCB|Kind=1|AlternatePart= 
+Variation29=Designator=C925|UniqueId=\CQQPCJVZ\GELFWFDY|Kind=1|AlternatePart= 
+Variation30=Designator=C926|UniqueId=\CQQPCJVZ\TJOBXOFV|Kind=1|AlternatePart= 
+Variation31=Designator=C?|UniqueId=\FUURERMJ\CZLOXGMK|Kind=1|AlternatePart= 
+Variation32=Designator=R65|UniqueId=\FUURERMJ\IPAEMWVB|Kind=1|AlternatePart= 
+Variation33=Designator=R92|UniqueId=\LBQOEYVB\HZXSBAUI|Kind=1|AlternatePart= 
+Variation34=Designator=R166_U_ADC_PLL1|UniqueId=\AMRILONG\YELROLIY|Kind=1|AlternatePart= 
+Variation35=Designator=R166_U_ADC_PLL2|UniqueId=\PUHVFAIK\YELROLIY|Kind=1|AlternatePart= 
+Variation36=Designator=R514|UniqueId=\GGHXXARZ\JVBUZYAY|Kind=1|AlternatePart= 
+Variation37=Designator=R515|UniqueId=\GGHXXARZ\ILCQPPWU|Kind=1|AlternatePart= 
+Variation38=Designator=R?|UniqueId=\FUURERMJ\APCDQRAS|Kind=1|AlternatePart= 
+Variation39=Designator=R?|UniqueId=\FUURERMJ\DIYURRGQ|Kind=1|AlternatePart= 
+Variation40=Designator=R?|UniqueId=\FUURERMJ\FGJGBQMV|Kind=1|AlternatePart= 
+Variation41=Designator=R?|UniqueId=\IXSNIESF\CXQCHWPP|Kind=1|AlternatePart= 
+Variation42=Designator=R?|UniqueId=\IXSNIESF\DOZAGKMQ|Kind=1|AlternatePart= 
+Variation43=Designator=C177|UniqueId=\LBQOEYVB\WWMLMJLS|Kind=1|AlternatePart= 
+Variation44=Designator=C178|UniqueId=\LBQOEYVB\CZVRUTKS|Kind=1|AlternatePart= 
+ParamVariationCount=31
 
 [SearchPath1]
-Path=..\..\OneDrive - Politechnika Warszawska\Politechnika\Magisterska\Lib\*.*
-IncludeSubFolders=1
-
-[SearchPath2]
-Path=..\..\Politechnika\Magisterska\Lib\*.*
+Path=..\ZZ_Libs\*.*
 IncludeSubFolders=1
 
 [Configuration1]
@@ -1704,13 +1835,10 @@ OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
-[Generic_EDE]
-OutputDir=Project Outputs for RFSoC-AMC
-
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Hewlett-Packard HP LaserJet P2035
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -1816,7 +1944,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Hewlett-Packard HP LaserJet P2035
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1878,23 +2006,19 @@ OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration9_Name1=OutputConfigurationParameter1
+Configuration9_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType10=SimView Print
 OutputName10=SimView Prints
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=PDF3D MBA
-OutputName11=PDF3D MBA
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Hewlett-Packard HP LaserJet P2035
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1916,7 +2040,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Hewlett-Packard HP LaserJet P2035
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -1988,7 +2112,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Hewlett-Packard HP LaserJet P2035
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1996,6 +2120,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -2025,7 +2161,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Hewlett-Packard HP LaserJet P2035
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -2205,7 +2341,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Hewlett-Packard HP LaserJet P2035
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Server's components states check
@@ -2249,7 +2385,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Hewlett-Packard HP LaserJet P2035
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -2296,56 +2432,21 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Ansoft Neutral
-OutputName10=Ansoft Neutral (AutoPCB)
+OutputType10=MBAExportPARASOLID
+OutputName10=Export PARASOLID
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=AnsysEDB
-OutputName11=Ansys EDB
+OutputType11=MBAExportSTEP
+OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=HyperLynx
-OutputName12=HyperLynx (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=MBAExportPARASOLID
-OutputName13=Export PARASOLID
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=MBAExportSTEP
-OutputName14=Export STEP
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Hewlett-Packard HP LaserJet P2035
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -2471,8 +2572,6 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
-Type118=1
-Type119=1
 
 [Difference Levels]
 Type1=1
@@ -2541,8 +2640,6 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
-Type67=1
-Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -2558,7 +2655,7 @@ Type10=1
 Type11=2
 Type12=0
 Type13=0
-Type14=1
+Type14=0
 Type15=1
 Type16=1
 Type17=1
@@ -2690,7 +2787,6 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
-ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -2711,7 +2807,6 @@ NetClassSeparateForBusSections=0
 [LibraryUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
-UpdateToLatestRevision=1
 PartTypes=0
 FullReplace=1
 UpdateDesignatorLock=1
@@ -2730,8 +2825,30 @@ UpdateCurrentModels=1
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
-UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=P3V3MP|NetColor=$0045783E
+Net2=NetName=VCCINT|NetColor=$00F7FEA8
+Net3=NetName=P5V0|NetColor=$000101FF
+Net4=NetName=P1V8|NetColor=clYellow
+Net5=NetName=P3V3|NetColor=$0000BE00
+Net6=NetName=UTIL_1V13|NetColor=$001298EE
+Net7=NetName=GND|NetColor=$006E6EFF
+Net8=NetName=ADC_AVCCAUX|NetColor=$0038AEC8
+Net9=NetName=MGT1V8|NetColor=$0000CCCC
+Net10=NetName=MGTRAVCC|NetColor=$00FF9966
+Net11=NetName=MGTAVCC|NetColor=$00BFBD3F
+Net12=NetName=P1V2|NetColor=$00C13FB0
+Net13=NetName=AMS_CLK_VCC3V3|NetColor=$008E9F61
+Net14=NetName=P3V5|NetColor=$006EFF6E
+Net15=NetName=VCCINT_AMS|NetColor=$00FFFF6E
+Net16=NetName=VCCINT_IO_BRAM_PS_SDFEC|NetColor=$00898377
+Net17=NetName=P2V5F|NetColor=$00698997
+Net18=NetName=P3V3_CLK|NetColor=$00264E22
+Net19=NetName=P12V0|NetColor=$00FF6600
+Net20=NetName=MGT1V2|NetColor=$00FF6EFF
+Net21=NetName=P12V0_Molex|NetColor=$00C40606
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
