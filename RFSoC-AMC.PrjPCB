@@ -990,23 +990,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document57]
-DocumentPath=artix_supply.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=21
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BLKCFVSD
-
-[Document58]
 DocumentPath=Clocking_SI5341B.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1023,7 +1006,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KMPAOOKS
 
-[Document59]
+[Document58]
 DocumentPath=Clocking_SI5341B.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1040,7 +1023,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document59]
 DocumentPath=RTM_Connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1057,7 +1040,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
+[Document60]
 DocumentPath=SoC_FPGA_Config_0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1074,7 +1057,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document61]
 DocumentPath=SoC_FPGA_64_65_66_DDR4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1091,7 +1074,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document63]
+[Document62]
 DocumentPath=SoC_FPGA_67_68_69_DDR4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1108,7 +1091,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document64]
+[Document63]
 DocumentPath=SoC_FPGA_HD_84_87.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1125,7 +1108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document65]
+[Document64]
 DocumentPath=SoC_FPGA_128-131_GTY.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1142,7 +1125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document66]
+[Document65]
 DocumentPath=SoC_224-229_ADC_DAC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1159,7 +1142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document67]
+[Document66]
 DocumentPath=SoC_PS_500_501_502_MIO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1176,7 +1159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document68]
+[Document67]
 DocumentPath=SoC_PS_Config_503.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1193,7 +1176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document69]
+[Document68]
 DocumentPath=SoC_PS_504_DDR4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1210,7 +1193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document70]
+[Document69]
 DocumentPath=SoC_PS_505_GTR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1227,7 +1210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document71]
+[Document70]
 DocumentPath=FPGA_7A35T.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1244,7 +1227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document72]
+[Document71]
 DocumentPath=FPGA_7A35T_GTP.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1261,7 +1244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document73]
+[Document72]
 DocumentPath=USB3_CON.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1278,7 +1261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document74]
+[Document73]
 DocumentPath=USB_PHY.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1295,7 +1278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document75]
+[Document74]
 DocumentPath=SI5324_CDR_WR_oscillators.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1312,7 +1295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document76]
+[Document75]
 DocumentPath=SoC_Decoupling_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1329,7 +1312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JKGKRNIC
 
-[Document77]
+[Document76]
 DocumentPath=SoC_Decoupling.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1346,7 +1329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KXETJQIY
 
-[Document78]
+[Document77]
 DocumentPath=RFMC_ADC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1363,7 +1346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document79]
+[Document78]
 DocumentPath=RFMC_DAC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1380,7 +1363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HWTGVTKP
 
-[Document80]
+[Document79]
 DocumentPath=RFMC_DAC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1397,7 +1380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document81]
+[Document80]
 DocumentPath=MLVDS_Transceivers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1414,7 +1397,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KSGJKUWF
 
-[Document82]
+[Document81]
 DocumentPath=MLVDS_Transceivers.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1431,7 +1414,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document83]
+[Document82]
 DocumentPath=SD_CARD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1448,7 +1431,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document84]
+[Document83]
 DocumentPath=RFSoC_AMC.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2279,78 +2262,6 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType18=Text Print
-OutputName18=Text Print
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
-PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType19=Text Print
-OutputName19=Text Print
-OutputDocumentPath19=
-OutputVariantName19=
-OutputDefault19=0
-PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType20=Text Print
-OutputName20=Text Print
-OutputDocumentPath20=
-OutputVariantName20=
-OutputDefault20=0
-PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType21=Text Print
-OutputName21=Text Print
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType22=Text Print
-OutputName22=Text Print
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType23=Text Print
-OutputName23=Text Print
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
-PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType24=Text Print
-OutputName24=Text Print
-OutputDocumentPath24=
-OutputVariantName24=
-OutputDefault24=0
-PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType25=Text Print
-OutputName25=Text Print
-OutputDocumentPath25=
-OutputVariantName25=
-OutputDefault25=0
-PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType26=Text Print
-OutputName26=Text Print
-OutputDocumentPath26=
-OutputVariantName26=
-OutputDefault26=0
-PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType27=Text Print
-OutputName27=Text Print
-OutputDocumentPath27=
-OutputVariantName27=
-OutputDefault27=0
-PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType28=Text Print
-OutputName28=Text Print
-OutputDocumentPath28=
-OutputVariantName28=
-OutputDefault28=0
-PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType29=Text Print
-OutputName29=Text Print
-OutputDocumentPath29=
-OutputVariantName29=
-OutputDefault29=0
-PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup8]
 Name=Validation Outputs
@@ -2782,6 +2693,7 @@ Type119=3
 MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
+Type123=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
