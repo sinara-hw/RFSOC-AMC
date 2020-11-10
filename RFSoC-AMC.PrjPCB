@@ -463,23 +463,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GFDQMNOB
 
 [Document26]
-DocumentPath=SI5324_CDR_WR_oscillators.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=35
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QKAYEIUA
-
-[Document27]
 DocumentPath=AMS_CLOCK.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHVGGKBY
 
-[Document28]
+[Document27]
 DocumentPath=ETH_PHY_SW_L2L3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1000
@@ -513,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XQOXVKGL
 
-[Document29]
+[Document28]
 DocumentPath=ETH_PHY_SW_L2L3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document29]
 DocumentPath=RTM_Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TGVHKFVX
 
-[Document31]
+[Document30]
 DocumentPath=AMC_Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPKLUHPV
 
-[Document32]
+[Document31]
 DocumentPath=CPU_LPC1776_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VFATERQV
 
-[Document33]
+[Document32]
 DocumentPath=CPU_LPC1776_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WSHXOADV
 
-[Document34]
+[Document33]
 DocumentPath=I2C_MUX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GAPPJUDH
 
-[Document35]
+[Document34]
 DocumentPath=Power_Management_2FMC_RTM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LXHYFGDB
 
-[Document36]
+[Document35]
 DocumentPath=SD_CARD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXRTHTYF
 
-[Document37]
+[Document36]
 DocumentPath=Thermometers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTBUAALG
 
-[Document38]
+[Document37]
 DocumentPath=USB_SERIAL_QUAD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFLICSIX
 
-[Document39]
+[Document38]
 DocumentPath=AMC_Connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +683,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document39]
 DocumentPath=I2C_MUX.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document40]
 DocumentPath=USB_SERIAL_QUAD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document41]
 DocumentPath=CPU_LPC1776_1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document42]
 DocumentPath=Thermometers.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document43]
 DocumentPath=ADC_DAC_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DRRBIAUY
 
-[Document45]
+[Document44]
 DocumentPath=DAC_PLL.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document45]
 DocumentPath=AMS_CLOCK.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document46]
 DocumentPath=USB3_CON.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJRYDFFJ
 
-[Document48]
+[Document47]
 DocumentPath=USB_PHY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -853,24 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCEHLKIV
 
-[Document49]
-DocumentPath=soc.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document50]
+[Document48]
 DocumentPath=CPU_LPC1776_2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -887,7 +853,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document49]
 DocumentPath=JTAG_Configuration.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -904,7 +870,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWOSHJAM
 
-[Document52]
+[Document50]
 DocumentPath=JTAG_Configuration.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -921,7 +887,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document51]
 DocumentPath=ADC_PLL.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -938,7 +904,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document52]
 DocumentPath=VCCINT_IO_BRAM_PS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -955,7 +921,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WCDOINBD
 
-[Document55]
+[Document53]
 DocumentPath=Power_Management_2FMC_RTM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -972,7 +938,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document54]
 DocumentPath=Supply_CORE.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -989,7 +955,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document55]
 DocumentPath=Clocking_SI5341B.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1006,7 +972,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KMPAOOKS
 
-[Document58]
+[Document56]
 DocumentPath=Clocking_SI5341B.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1023,7 +989,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document59]
+[Document57]
 DocumentPath=RTM_Connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1040,7 +1006,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document58]
 DocumentPath=SoC_FPGA_Config_0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1057,7 +1023,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
+[Document59]
 DocumentPath=SoC_FPGA_64_65_66_DDR4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1074,7 +1040,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document60]
 DocumentPath=SoC_FPGA_67_68_69_DDR4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1091,7 +1057,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document63]
+[Document61]
 DocumentPath=SoC_FPGA_HD_84_87.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1108,7 +1074,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document64]
+[Document62]
 DocumentPath=SoC_FPGA_128-131_GTY.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1125,7 +1091,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document65]
+[Document63]
 DocumentPath=SoC_224-229_ADC_DAC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1142,7 +1108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document66]
+[Document64]
 DocumentPath=SoC_PS_500_501_502_MIO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1159,7 +1125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document67]
+[Document65]
 DocumentPath=SoC_PS_Config_503.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1176,7 +1142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document68]
+[Document66]
 DocumentPath=SoC_PS_504_DDR4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1193,7 +1159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document69]
+[Document67]
 DocumentPath=SoC_PS_505_GTR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1210,7 +1176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document70]
+[Document68]
 DocumentPath=FPGA_7A35T.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1227,7 +1193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document71]
+[Document69]
 DocumentPath=FPGA_7A35T_GTP.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1244,7 +1210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document72]
+[Document70]
 DocumentPath=USB3_CON.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1261,7 +1227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document73]
+[Document71]
 DocumentPath=USB_PHY.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1278,24 +1244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document74]
-DocumentPath=SI5324_CDR_WR_oscillators.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document75]
+[Document72]
 DocumentPath=SoC_Decoupling_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1312,7 +1261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JKGKRNIC
 
-[Document76]
+[Document73]
 DocumentPath=SoC_Decoupling.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1329,7 +1278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KXETJQIY
 
-[Document77]
+[Document74]
 DocumentPath=RFMC_ADC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1346,7 +1295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document78]
+[Document75]
 DocumentPath=RFMC_DAC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1363,7 +1312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HWTGVTKP
 
-[Document79]
+[Document76]
 DocumentPath=RFMC_DAC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1380,7 +1329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document80]
+[Document77]
 DocumentPath=MLVDS_Transceivers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1397,7 +1346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KSGJKUWF
 
-[Document81]
+[Document78]
 DocumentPath=MLVDS_Transceivers.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1414,7 +1363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document82]
+[Document79]
 DocumentPath=SD_CARD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1431,7 +1380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document83]
+[Document80]
 DocumentPath=RFSoC_AMC.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1448,261 +1397,47 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UAAMLLDU
 
-[ProjectVariant1]
-UniqueID=25ACE4FC-D9BE-4A01-A3DE-ACF747A9559C
-Description=Si549 LVDS
-AllowFabrication=0
-ParameterCount=0
-VariationCount=52
-Variation1=Designator=R508|UniqueId=\VAITLAUO\DGWGWQUP|Kind=1|AlternatePart= 
-Variation2=Designator=R509|UniqueId=\VAITLAUO\WNUUNNYC|Kind=1|AlternatePart= 
-Variation3=Designator=R503|UniqueId=\VAITLAUO\ZNKHOZOT|Kind=1|AlternatePart= 
-Variation4=Designator=R510|UniqueId=\VAITLAUO\SGIESMJB|Kind=1|AlternatePart= 
-Variation5=Designator=R506|UniqueId=\VAITLAUO\OOLTZZYI|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=Resistor - 1%|AltLibLink_DesignItemID=R0402_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue==Value
-ParamDesignator1=R506
-ParamVariation2=ParameterName=Case|VariantValue=0402
-ParamDesignator2=R506
-ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator3=R506
-ParamVariation4=ParameterName=Component Type|VariantValue=Standard
-ParamDesignator4=R506
-ParamVariation5=ParameterName=CreateDate|VariantValue=03.12.2007
-ParamDesignator5=R506
-ParamVariation6=ParameterName=Database Table Name|VariantValue=Resistors SMD
-ParamDesignator6=R506
-ParamVariation7=ParameterName=Description|VariantValue=Resistor
-ParamDesignator7=R506
-ParamVariation8=ParameterName=Footprint|VariantValue=RESC1005X40N
-ParamDesignator8=R506
-ParamVariation9=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf
-ParamDesignator9=R506
-ParamVariation10=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator10=R506
-ParamVariation11=ParameterName=LatestRevisionDate|VariantValue=17.10.2012
-ParamDesignator11=R506
-ParamVariation12=ParameterName=Library Reference|VariantValue=R0402_0R_JUMPER
-ParamDesignator12=R506
-ParamVariation13=ParameterName=Manufacturer|VariantValue=GENERIC
-ParamDesignator13=R506
-ParamVariation14=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.4mm
-ParamDesignator14=R506
-ParamVariation15=ParameterName=Manufacturer1 Example|VariantValue=YAGEO PHYCOMP
-ParamDesignator15=R506
-ParamVariation16=ParameterName=Manufacturer1 Part Number|VariantValue=232270591001L
-ParamDesignator16=R506
-ParamVariation17=ParameterName=Manufacturer Part Number|VariantValue=R0402_0R_JUMPER
-ParamDesignator17=R506
-ParamVariation18=ParameterName=Mounted|VariantValue=Yes
-ParamDesignator18=R506
-ParamVariation19=ParameterName=Part Description|VariantValue=1A (0.05R Max DC Resistance) Zero Ohm Jumper
-ParamDesignator19=R506
-ParamVariation20=ParameterName=Part Number|VariantValue=R0402_0R_JUMPER
-ParamDesignator20=R506
-ParamVariation21=ParameterName=PCB3D|VariantValue= 
-ParamDesignator21=R506
-ParamVariation22=ParameterName=Pin Count|VariantValue=2
-ParamDesignator22=R506
-ParamVariation23=ParameterName=Pin Info|VariantValue= 
-ParamDesignator23=R506
-ParamVariation24=ParameterName=PressFit|VariantValue=No
-ParamDesignator24=R506
-ParamVariation25=ParameterName=Sense|VariantValue=No
-ParamDesignator25=R506
-ParamVariation26=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator26=R506
-ParamVariation27=ParameterName=Simulation|VariantValue= 
-ParamDesignator27=R506
-ParamVariation28=ParameterName=SMD|VariantValue=Yes
-ParamDesignator28=R506
-ParamVariation29=ParameterName=Socket|VariantValue=No
-ParamDesignator29=R506
-ParamVariation30=ParameterName=Status|VariantValue=Not Recommended
-ParamDesignator30=R506
-ParamVariation31=ParameterName=Value|VariantValue=0
-ParamDesignator31=R506
-Variation6=Designator=R500|UniqueId=\VAITLAUO\CJHVTNHA|Kind=1|AlternatePart= 
-Variation7=Designator=R485|UniqueId=\VAITLAUO\QEIJFAHA|Kind=1|AlternatePart= 
-Variation8=Designator=R486|UniqueId=\VAITLAUO\YTARRUXG|Kind=1|AlternatePart= 
-Variation9=Designator=C592|UniqueId=\VAITLAUO\WBXSHGBI|Kind=1|AlternatePart= 
-Variation10=Designator=R482|UniqueId=\VAITLAUO\MQWQIJAT|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=Resistor - 1%|AltLibLink_DesignItemID=R0402_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
-ParamVariation32=ParameterName=Comment|VariantValue==Value
-ParamDesignator32=R482
-ParamVariation33=ParameterName=Case|VariantValue=0402
-ParamDesignator33=R482
-ParamVariation34=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator34=R482
-ParamVariation35=ParameterName=Component Type|VariantValue=Standard
-ParamDesignator35=R482
-ParamVariation36=ParameterName=CreateDate|VariantValue=03.12.2007
-ParamDesignator36=R482
-ParamVariation37=ParameterName=Database Table Name|VariantValue=Resistors SMD
-ParamDesignator37=R482
-ParamVariation38=ParameterName=Description|VariantValue=Resistor
-ParamDesignator38=R482
-ParamVariation39=ParameterName=Footprint|VariantValue=RESC1005X40N
-ParamDesignator39=R482
-ParamVariation40=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf
-ParamDesignator40=R482
-ParamVariation41=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator41=R482
-ParamVariation42=ParameterName=LatestRevisionDate|VariantValue=17.10.2012
-ParamDesignator42=R482
-ParamVariation43=ParameterName=Library Reference|VariantValue=R0402_0R_JUMPER
-ParamDesignator43=R482
-ParamVariation44=ParameterName=Manufacturer|VariantValue=GENERIC
-ParamDesignator44=R482
-ParamVariation45=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.4mm
-ParamDesignator45=R482
-ParamVariation46=ParameterName=Manufacturer1 Example|VariantValue=YAGEO PHYCOMP
-ParamDesignator46=R482
-ParamVariation47=ParameterName=Manufacturer1 Part Number|VariantValue=232270591001L
-ParamDesignator47=R482
-ParamVariation48=ParameterName=Manufacturer Part Number|VariantValue=R0402_0R_JUMPER
-ParamDesignator48=R482
-ParamVariation49=ParameterName=Mounted|VariantValue=Yes
-ParamDesignator49=R482
-ParamVariation50=ParameterName=Part Description|VariantValue=1A (0.05R Max DC Resistance) Zero Ohm Jumper
-ParamDesignator50=R482
-ParamVariation51=ParameterName=Part Number|VariantValue=R0402_0R_JUMPER
-ParamDesignator51=R482
-ParamVariation52=ParameterName=PCB3D|VariantValue= 
-ParamDesignator52=R482
-ParamVariation53=ParameterName=Pin Count|VariantValue=2
-ParamDesignator53=R482
-ParamVariation54=ParameterName=Pin Info|VariantValue= 
-ParamDesignator54=R482
-ParamVariation55=ParameterName=PressFit|VariantValue=No
-ParamDesignator55=R482
-ParamVariation56=ParameterName=Sense|VariantValue=No
-ParamDesignator56=R482
-ParamVariation57=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator57=R482
-ParamVariation58=ParameterName=Simulation|VariantValue= 
-ParamDesignator58=R482
-ParamVariation59=ParameterName=SMD|VariantValue=Yes
-ParamDesignator59=R482
-ParamVariation60=ParameterName=Socket|VariantValue=No
-ParamDesignator60=R482
-ParamVariation61=ParameterName=Status|VariantValue=Not Recommended
-ParamDesignator61=R482
-ParamVariation62=ParameterName=Value|VariantValue=0
-ParamDesignator62=R482
-Variation11=Designator=R298|UniqueId=\VAITLAUO\AQEXTSXV|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=Resistor - 1%|AltLibLink_DesignItemID=R0402_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
-ParamVariation63=ParameterName=Comment|VariantValue==Value
-ParamDesignator63=R298
-ParamVariation64=ParameterName=Case|VariantValue=0402
-ParamDesignator64=R298
-ParamVariation65=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator65=R298
-ParamVariation66=ParameterName=Component Type|VariantValue=Standard
-ParamDesignator66=R298
-ParamVariation67=ParameterName=CreateDate|VariantValue=03.12.2007
-ParamDesignator67=R298
-ParamVariation68=ParameterName=Database Table Name|VariantValue=Resistors SMD
-ParamDesignator68=R298
-ParamVariation69=ParameterName=Description|VariantValue=Resistor
-ParamDesignator69=R298
-ParamVariation70=ParameterName=Footprint|VariantValue=RESC1005X40N
-ParamDesignator70=R298
-ParamVariation71=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf
-ParamDesignator71=R298
-ParamVariation72=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator72=R298
-ParamVariation73=ParameterName=LatestRevisionDate|VariantValue=17.10.2012
-ParamDesignator73=R298
-ParamVariation74=ParameterName=Library Reference|VariantValue=R0402_0R_JUMPER
-ParamDesignator74=R298
-ParamVariation75=ParameterName=Manufacturer|VariantValue=GENERIC
-ParamDesignator75=R298
-ParamVariation76=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.4mm
-ParamDesignator76=R298
-ParamVariation77=ParameterName=Manufacturer1 Example|VariantValue=YAGEO PHYCOMP
-ParamDesignator77=R298
-ParamVariation78=ParameterName=Manufacturer1 Part Number|VariantValue=232270591001L
-ParamDesignator78=R298
-ParamVariation79=ParameterName=Manufacturer Part Number|VariantValue=R0402_0R_JUMPER
-ParamDesignator79=R298
-ParamVariation80=ParameterName=Mounted|VariantValue=Yes
-ParamDesignator80=R298
-ParamVariation81=ParameterName=Part Description|VariantValue=1A (0.05R Max DC Resistance) Zero Ohm Jumper
-ParamDesignator81=R298
-ParamVariation82=ParameterName=Part Number|VariantValue=R0402_0R_JUMPER
-ParamDesignator82=R298
-ParamVariation83=ParameterName=PCB3D|VariantValue= 
-ParamDesignator83=R298
-ParamVariation84=ParameterName=Pin Count|VariantValue=2
-ParamDesignator84=R298
-ParamVariation85=ParameterName=Pin Info|VariantValue= 
-ParamDesignator85=R298
-ParamVariation86=ParameterName=PressFit|VariantValue=No
-ParamDesignator86=R298
-ParamVariation87=ParameterName=Sense|VariantValue=No
-ParamDesignator87=R298
-ParamVariation88=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator88=R298
-ParamVariation89=ParameterName=Simulation|VariantValue= 
-ParamDesignator89=R298
-ParamVariation90=ParameterName=SMD|VariantValue=Yes
-ParamDesignator90=R298
-ParamVariation91=ParameterName=Socket|VariantValue=No
-ParamDesignator91=R298
-ParamVariation92=ParameterName=Status|VariantValue=Not Recommended
-ParamDesignator92=R298
-ParamVariation93=ParameterName=Value|VariantValue=0
-ParamDesignator93=R298
-Variation12=Designator=R466|UniqueId=\VAITLAUO\AXJSDXQE|Kind=1|AlternatePart= 
-Variation13=Designator=C572|UniqueId=\VAITLAUO\KTBXYFAD|Kind=1|AlternatePart= 
-Variation14=Designator=C574|UniqueId=\VAITLAUO\OQCFPFGS|Kind=1|AlternatePart= 
-Variation15=Designator=R467|UniqueId=\VAITLAUO\KRHNBGMR|Kind=1|AlternatePart= 
-Variation16=Designator=R229|UniqueId=\UETKLNPN\NEXJKCNG|Kind=1|AlternatePart= 
-Variation17=Designator=R514|UniqueId=\GGHXXARZ\JVBUZYAY|Kind=1|AlternatePart= 
-Variation18=Designator=R515|UniqueId=\GGHXXARZ\ILCQPPWU|Kind=1|AlternatePart= 
-Variation19=Designator=C921|UniqueId=\NULGEYWV\QOCMNMQV|Kind=1|AlternatePart= 
-Variation20=Designator=C922|UniqueId=\NULGEYWV\IAXGGESK|Kind=1|AlternatePart= 
-Variation21=Designator=C920|UniqueId=\NULGEYWV\FGJHHBQS|Kind=1|AlternatePart= 
-Variation22=Designator=C919|UniqueId=\NULGEYWV\DHRQSWXB|Kind=1|AlternatePart= 
-Variation23=Designator=C918|UniqueId=\NULGEYWV\OOKHTHLX|Kind=1|AlternatePart= 
-Variation24=Designator=C917|UniqueId=\NULGEYWV\QLYEYUPZ|Kind=1|AlternatePart= 
-Variation25=Designator=C916|UniqueId=\NULGEYWV\HGBYXJWG|Kind=1|AlternatePart= 
-Variation26=Designator=C915|UniqueId=\NULGEYWV\PWYANFFU|Kind=1|AlternatePart= 
-Variation27=Designator=C923|UniqueId=\CQQPCJVZ\JFHCQHJH|Kind=1|AlternatePart= 
-Variation28=Designator=C924|UniqueId=\CQQPCJVZ\UWRZSJCB|Kind=1|AlternatePart= 
-Variation29=Designator=C925|UniqueId=\CQQPCJVZ\GELFWFDY|Kind=1|AlternatePart= 
-Variation30=Designator=C926|UniqueId=\CQQPCJVZ\TJOBXOFV|Kind=1|AlternatePart= 
-Variation31=Designator=C316_U_ADC_PLL1|UniqueId=\AMRILONG\ZNYJKUZX|Kind=1|AlternatePart= 
-Variation32=Designator=C315_U_ADC_PLL1|UniqueId=\AMRILONG\PVNJWJGD|Kind=1|AlternatePart= 
-Variation33=Designator=R166_U_ADC_PLL1|UniqueId=\AMRILONG\YELROLIY|Kind=1|AlternatePart= 
-Variation34=Designator=R166_U_ADC_PLL2|UniqueId=\PUHVFAIK\YELROLIY|Kind=1|AlternatePart= 
-Variation35=Designator=C316_U_ADC_PLL2|UniqueId=\PUHVFAIK\ZNYJKUZX|Kind=1|AlternatePart= 
-Variation36=Designator=C315_U_ADC_PLL2|UniqueId=\PUHVFAIK\PVNJWJGD|Kind=1|AlternatePart= 
-Variation37=Designator=R92|UniqueId=\LBQOEYVB\HZXSBAUI|Kind=1|AlternatePart= 
-Variation38=Designator=C178|UniqueId=\LBQOEYVB\CZVRUTKS|Kind=1|AlternatePart= 
-Variation39=Designator=C177|UniqueId=\LBQOEYVB\WWMLMJLS|Kind=1|AlternatePart= 
-Variation40=Designator=C556|UniqueId=\VAITLAUO\RSPRTNLJ|Kind=1|AlternatePart= 
-Variation41=Designator=C562|UniqueId=\VAITLAUO\MAMIBSMJ|Kind=1|AlternatePart= 
-Variation42=Designator=R?|UniqueId=\FUURERMJ\FGJGBQMV|Kind=1|AlternatePart= 
-Variation43=Designator=C?|UniqueId=\FUURERMJ\CZLOXGMK|Kind=1|AlternatePart= 
-Variation44=Designator=R?|UniqueId=\FUURERMJ\DIYURRGQ|Kind=1|AlternatePart= 
-Variation45=Designator=R?|UniqueId=\FUURERMJ\APCDQRAS|Kind=1|AlternatePart= 
-Variation46=Designator=R65|UniqueId=\FUURERMJ\IPAEMWVB|Kind=1|AlternatePart= 
-Variation47=Designator=R?|UniqueId=\IXSNIESF\CXQCHWPP|Kind=1|AlternatePart= 
-Variation48=Designator=R?|UniqueId=\IXSNIESF\DOZAGKMQ|Kind=1|AlternatePart= 
-Variation49=Designator=R373|UniqueId=\ZGPHUOSS\IFWSBEHO|Kind=1|AlternatePart= 
-Variation50=Designator=R374|UniqueId=\ZGPHUOSS\DCCBIQJJ|Kind=1|AlternatePart= 
-Variation51=Designator=R375|UniqueId=\ZGPHUOSS\ABMNQRDW|Kind=1|AlternatePart= 
-Variation52=Designator=R376|UniqueId=\ZGPHUOSS\UDKCNHBA|Kind=1|AlternatePart= 
-ParamVariationCount=93
+[Document81]
+DocumentPath=CDR_WR_oscillators.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NCFXVFCX
 
-[ProjectVariant2]
+[Document82]
+DocumentPath=CDR_WR_oscillators.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
 UniqueID=FECD5DB2-8784-433A-94BD-B173D94B5882
 Description=Si549 CMOS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=44
-Variation1=Designator=R508|UniqueId=\VAITLAUO\DGWGWQUP|Kind=1|AlternatePart= 
-Variation2=Designator=R509|UniqueId=\VAITLAUO\WNUUNNYC|Kind=1|AlternatePart= 
-Variation3=Designator=R506|UniqueId=\VAITLAUO\OOLTZZYI|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=Resistor - 1%|AltLibLink_DesignItemID=R0402_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
+VariationCount=73
+Variation1=Designator=R506|UniqueId=\VAITLAUO\VXNFDXDK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\OneDrive - Politechnika Warszawska\Projekty\ZZ_Libs\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0402_49R9_1%_0.0625W_100PPM|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=R506
 ParamVariation2=ParameterName=Case|VariantValue=0402
@@ -1711,11 +1446,11 @@ ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator3=R506
 ParamVariation4=ParameterName=Component Type|VariantValue=Standard
 ParamDesignator4=R506
-ParamVariation5=ParameterName=CreateDate|VariantValue=03.12.2007
+ParamVariation5=ParameterName=CreateDate|VariantValue=24.10.2012
 ParamDesignator5=R506
 ParamVariation6=ParameterName=Database Table Name|VariantValue=Resistors SMD
 ParamDesignator6=R506
-ParamVariation7=ParameterName=Description|VariantValue=Resistor
+ParamVariation7=ParameterName=Description|VariantValue=Resistor - 1%
 ParamDesignator7=R506
 ParamVariation8=ParameterName=Footprint|VariantValue=RESC1005X40N
 ParamDesignator8=R506
@@ -1723,9 +1458,9 @@ ParamVariation9=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Al
 ParamDesignator9=R506
 ParamVariation10=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator10=R506
-ParamVariation11=ParameterName=LatestRevisionDate|VariantValue=17.10.2012
+ParamVariation11=ParameterName=LatestRevisionDate|VariantValue=24.10.2012
 ParamDesignator11=R506
-ParamVariation12=ParameterName=Library Reference|VariantValue=R0402_0R_JUMPER
+ParamVariation12=ParameterName=Library Reference|VariantValue=R0402_49R9_1%_0.0625W_100PPM
 ParamDesignator12=R506
 ParamVariation13=ParameterName=Manufacturer|VariantValue=GENERIC
 ParamDesignator13=R506
@@ -1733,15 +1468,15 @@ ParamVariation14=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.4mm
 ParamDesignator14=R506
 ParamVariation15=ParameterName=Manufacturer1 Example|VariantValue=YAGEO PHYCOMP
 ParamDesignator15=R506
-ParamVariation16=ParameterName=Manufacturer1 Part Number|VariantValue=232270591001L
+ParamVariation16=ParameterName=Manufacturer1 Part Number|VariantValue=232270674999L or RC0402FR-0749R9L
 ParamDesignator16=R506
-ParamVariation17=ParameterName=Manufacturer Part Number|VariantValue=R0402_0R_JUMPER
+ParamVariation17=ParameterName=Manufacturer Part Number|VariantValue=R0402_49R9_1%_0.0625W_100PPM
 ParamDesignator17=R506
 ParamVariation18=ParameterName=Mounted|VariantValue=Yes
 ParamDesignator18=R506
-ParamVariation19=ParameterName=Part Description|VariantValue=1A (0.05R Max DC Resistance) Zero Ohm Jumper
+ParamVariation19=ParameterName=Part Description|VariantValue=General Purpose Thick Film Chip Resistor
 ParamDesignator19=R506
-ParamVariation20=ParameterName=Part Number|VariantValue=R0402_0R_JUMPER
+ParamVariation20=ParameterName=Part Number|VariantValue=R0402_49R9_1%_0.0625W_100PPM
 ParamDesignator20=R506
 ParamVariation21=ParameterName=PCB3D|VariantValue= 
 ParamDesignator21=R506
@@ -1763,50 +1498,87 @@ ParamVariation29=ParameterName=Socket|VariantValue=No
 ParamDesignator29=R506
 ParamVariation30=ParameterName=Status|VariantValue=Not Recommended
 ParamDesignator30=R506
-ParamVariation31=ParameterName=Value|VariantValue=0
+ParamVariation31=ParameterName=Value|VariantValue=49R9
 ParamDesignator31=R506
-Variation4=Designator=R500|UniqueId=\VAITLAUO\CJHVTNHA|Kind=1|AlternatePart= 
-Variation5=Designator=R503|UniqueId=\VAITLAUO\ZNKHOZOT|Kind=1|AlternatePart= 
-Variation6=Designator=R486|UniqueId=\VAITLAUO\YTARRUXG|Kind=1|AlternatePart= 
-Variation7=Designator=R485|UniqueId=\VAITLAUO\QEIJFAHA|Kind=1|AlternatePart= 
-Variation8=Designator=C556|UniqueId=\VAITLAUO\RSPRTNLJ|Kind=1|AlternatePart= 
-Variation9=Designator=C562|UniqueId=\VAITLAUO\MAMIBSMJ|Kind=1|AlternatePart= 
-Variation10=Designator=R466|UniqueId=\VAITLAUO\AXJSDXQE|Kind=1|AlternatePart= 
-Variation11=Designator=R467|UniqueId=\VAITLAUO\KRHNBGMR|Kind=1|AlternatePart= 
-Variation12=Designator=C574|UniqueId=\VAITLAUO\OQCFPFGS|Kind=1|AlternatePart= 
-Variation13=Designator=C572|UniqueId=\VAITLAUO\KTBXYFAD|Kind=1|AlternatePart= 
-Variation14=Designator=R229|UniqueId=\UETKLNPN\NEXJKCNG|Kind=1|AlternatePart= 
-Variation15=Designator=C315_U_ADC_PLL1|UniqueId=\AMRILONG\PVNJWJGD|Kind=1|AlternatePart= 
-Variation16=Designator=C315_U_ADC_PLL2|UniqueId=\PUHVFAIK\PVNJWJGD|Kind=1|AlternatePart= 
-Variation17=Designator=C316_U_ADC_PLL1|UniqueId=\AMRILONG\ZNYJKUZX|Kind=1|AlternatePart= 
-Variation18=Designator=C316_U_ADC_PLL2|UniqueId=\PUHVFAIK\ZNYJKUZX|Kind=1|AlternatePart= 
-Variation19=Designator=C915|UniqueId=\NULGEYWV\PWYANFFU|Kind=1|AlternatePart= 
-Variation20=Designator=C916|UniqueId=\NULGEYWV\HGBYXJWG|Kind=1|AlternatePart= 
-Variation21=Designator=C917|UniqueId=\NULGEYWV\QLYEYUPZ|Kind=1|AlternatePart= 
-Variation22=Designator=C918|UniqueId=\NULGEYWV\OOKHTHLX|Kind=1|AlternatePart= 
-Variation23=Designator=C919|UniqueId=\NULGEYWV\DHRQSWXB|Kind=1|AlternatePart= 
-Variation24=Designator=C920|UniqueId=\NULGEYWV\FGJHHBQS|Kind=1|AlternatePart= 
-Variation25=Designator=C921|UniqueId=\NULGEYWV\QOCMNMQV|Kind=1|AlternatePart= 
-Variation26=Designator=C923|UniqueId=\CQQPCJVZ\JFHCQHJH|Kind=1|AlternatePart= 
-Variation27=Designator=C922|UniqueId=\NULGEYWV\IAXGGESK|Kind=1|AlternatePart= 
-Variation28=Designator=C924|UniqueId=\CQQPCJVZ\UWRZSJCB|Kind=1|AlternatePart= 
-Variation29=Designator=C925|UniqueId=\CQQPCJVZ\GELFWFDY|Kind=1|AlternatePart= 
-Variation30=Designator=C926|UniqueId=\CQQPCJVZ\TJOBXOFV|Kind=1|AlternatePart= 
-Variation31=Designator=C?|UniqueId=\FUURERMJ\CZLOXGMK|Kind=1|AlternatePart= 
-Variation32=Designator=R65|UniqueId=\FUURERMJ\IPAEMWVB|Kind=1|AlternatePart= 
-Variation33=Designator=R92|UniqueId=\LBQOEYVB\HZXSBAUI|Kind=1|AlternatePart= 
-Variation34=Designator=R166_U_ADC_PLL1|UniqueId=\AMRILONG\YELROLIY|Kind=1|AlternatePart= 
-Variation35=Designator=R166_U_ADC_PLL2|UniqueId=\PUHVFAIK\YELROLIY|Kind=1|AlternatePart= 
-Variation36=Designator=R514|UniqueId=\GGHXXARZ\JVBUZYAY|Kind=1|AlternatePart= 
-Variation37=Designator=R515|UniqueId=\GGHXXARZ\ILCQPPWU|Kind=1|AlternatePart= 
-Variation38=Designator=R?|UniqueId=\FUURERMJ\APCDQRAS|Kind=1|AlternatePart= 
-Variation39=Designator=R?|UniqueId=\FUURERMJ\DIYURRGQ|Kind=1|AlternatePart= 
-Variation40=Designator=R?|UniqueId=\FUURERMJ\FGJGBQMV|Kind=1|AlternatePart= 
-Variation41=Designator=R?|UniqueId=\IXSNIESF\CXQCHWPP|Kind=1|AlternatePart= 
-Variation42=Designator=R?|UniqueId=\IXSNIESF\DOZAGKMQ|Kind=1|AlternatePart= 
-Variation43=Designator=C177|UniqueId=\LBQOEYVB\WWMLMJLS|Kind=1|AlternatePart= 
-Variation44=Designator=C178|UniqueId=\LBQOEYVB\CZVRUTKS|Kind=1|AlternatePart= 
-ParamVariationCount=31
+ParamVariation32=ParameterName=Power|VariantValue=0.0625W
+ParamDesignator32=R506
+ParamVariation33=ParameterName=TC|VariantValue=±100ppm/°C
+ParamDesignator33=R506
+ParamVariation34=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator34=R506
+Variation2=Designator=R500|UniqueId=\VAITLAUO\CJHVTNHA|Kind=1|AlternatePart= 
+Variation3=Designator=R503|UniqueId=\VAITLAUO\ZNKHOZOT|Kind=1|AlternatePart= 
+Variation4=Designator=R486|UniqueId=\VAITLAUO\YTARRUXG|Kind=1|AlternatePart= 
+Variation5=Designator=R485|UniqueId=\VAITLAUO\QEIJFAHA|Kind=1|AlternatePart= 
+Variation6=Designator=R466|UniqueId=\VAITLAUO\AXJSDXQE|Kind=1|AlternatePart= 
+Variation7=Designator=R467|UniqueId=\VAITLAUO\KRHNBGMR|Kind=1|AlternatePart= 
+Variation8=Designator=C574|UniqueId=\VAITLAUO\OQCFPFGS|Kind=1|AlternatePart= 
+Variation9=Designator=C572|UniqueId=\VAITLAUO\KTBXYFAD|Kind=1|AlternatePart= 
+Variation10=Designator=R229|UniqueId=\UETKLNPN\NEXJKCNG|Kind=1|AlternatePart= 
+Variation11=Designator=C315_U_ADC_PLL1|UniqueId=\AMRILONG\PVNJWJGD|Kind=1|AlternatePart= 
+Variation12=Designator=C315_U_ADC_PLL2|UniqueId=\PUHVFAIK\PVNJWJGD|Kind=1|AlternatePart= 
+Variation13=Designator=C316_U_ADC_PLL1|UniqueId=\AMRILONG\ZNYJKUZX|Kind=1|AlternatePart= 
+Variation14=Designator=C316_U_ADC_PLL2|UniqueId=\PUHVFAIK\ZNYJKUZX|Kind=1|AlternatePart= 
+Variation15=Designator=C915|UniqueId=\NULGEYWV\PWYANFFU|Kind=1|AlternatePart= 
+Variation16=Designator=C916|UniqueId=\NULGEYWV\HGBYXJWG|Kind=1|AlternatePart= 
+Variation17=Designator=C917|UniqueId=\NULGEYWV\QLYEYUPZ|Kind=1|AlternatePart= 
+Variation18=Designator=C918|UniqueId=\NULGEYWV\OOKHTHLX|Kind=1|AlternatePart= 
+Variation19=Designator=C919|UniqueId=\NULGEYWV\DHRQSWXB|Kind=1|AlternatePart= 
+Variation20=Designator=C920|UniqueId=\NULGEYWV\FGJHHBQS|Kind=1|AlternatePart= 
+Variation21=Designator=C921|UniqueId=\NULGEYWV\QOCMNMQV|Kind=1|AlternatePart= 
+Variation22=Designator=C923|UniqueId=\CQQPCJVZ\JFHCQHJH|Kind=1|AlternatePart= 
+Variation23=Designator=C922|UniqueId=\NULGEYWV\IAXGGESK|Kind=1|AlternatePart= 
+Variation24=Designator=C924|UniqueId=\CQQPCJVZ\UWRZSJCB|Kind=1|AlternatePart= 
+Variation25=Designator=C925|UniqueId=\CQQPCJVZ\GELFWFDY|Kind=1|AlternatePart= 
+Variation26=Designator=C926|UniqueId=\CQQPCJVZ\TJOBXOFV|Kind=1|AlternatePart= 
+Variation27=Designator=C139|UniqueId=\FUURERMJ\CZLOXGMK|Kind=1|AlternatePart= 
+Variation28=Designator=R65|UniqueId=\FUURERMJ\IPAEMWVB|Kind=1|AlternatePart= 
+Variation29=Designator=R92|UniqueId=\LBQOEYVB\HZXSBAUI|Kind=1|AlternatePart= 
+Variation30=Designator=R166_U_ADC_PLL1|UniqueId=\AMRILONG\YELROLIY|Kind=1|AlternatePart= 
+Variation31=Designator=R166_U_ADC_PLL2|UniqueId=\PUHVFAIK\YELROLIY|Kind=1|AlternatePart= 
+Variation32=Designator=R514|UniqueId=\GGHXXARZ\JVBUZYAY|Kind=1|AlternatePart= 
+Variation33=Designator=R515|UniqueId=\GGHXXARZ\ILCQPPWU|Kind=1|AlternatePart= 
+Variation34=Designator=R66|UniqueId=\FUURERMJ\APCDQRAS|Kind=1|AlternatePart= 
+Variation35=Designator=R68|UniqueId=\FUURERMJ\DIYURRGQ|Kind=1|AlternatePart= 
+Variation36=Designator=R67|UniqueId=\FUURERMJ\FGJGBQMV|Kind=1|AlternatePart= 
+Variation37=Designator=C177|UniqueId=\LBQOEYVB\WWMLMJLS|Kind=1|AlternatePart= 
+Variation38=Designator=C178|UniqueId=\LBQOEYVB\CZVRUTKS|Kind=1|AlternatePart= 
+Variation39=Designator=C587|UniqueId=\VAITLAUO\SFSEWACM|Kind=1|AlternatePart= 
+Variation40=Designator=R510|UniqueId=\VAITLAUO\SGIESMJB|Kind=1|AlternatePart= 
+Variation41=Designator=C563|UniqueId=\VAITLAUO\WRQKANFC|Kind=1|AlternatePart= 
+Variation42=Designator=C559|UniqueId=\VAITLAUO\LLRDLYYV|Kind=1|AlternatePart= 
+Variation43=Designator=R493|UniqueId=\VAITLAUO\KHXJBAQL|Kind=1|AlternatePart= 
+Variation44=Designator=R511|UniqueId=\VAITLAUO\WIRPJUPM|Kind=1|AlternatePart= 
+Variation45=Designator=R518|UniqueId=\EXOMJGTR\PRVIPIRH\ZMMEVPYM|Kind=1|AlternatePart= 
+Variation46=Designator=R520|UniqueId=\EXOMJGTR\PRVIPIRH\UDYCRTCH|Kind=1|AlternatePart= 
+Variation47=Designator=R537|UniqueId=\EXOMJGTR\PRVIPIRH\SARCNUSS|Kind=1|AlternatePart= 
+Variation48=Designator=R617|UniqueId=\EXOMJGTR\PRVIPIRH\YTIWKFCU|Kind=1|AlternatePart= 
+Variation49=Designator=R666|UniqueId=\EXOMJGTR\PRVIPIRH\OFUGNTEX|Kind=1|AlternatePart= 
+Variation50=Designator=R618|UniqueId=\EXOMJGTR\PRVIPIRH\WSFYTKPT|Kind=1|AlternatePart= 
+Variation51=Designator=R667|UniqueId=\EXOMJGTR\PRVIPIRH\SNZMVFWS|Kind=1|AlternatePart= 
+Variation52=Designator=R668|UniqueId=\EXOMJGTR\PRVIPIRH\JXMBZMRK|Kind=1|AlternatePart= 
+Variation53=Designator=R517|UniqueId=\EXOMJGTR\PRVIPIRH\OODZPBOF|Kind=1|AlternatePart= 
+Variation54=Designator=R519|UniqueId=\EXOMJGTR\PRVIPIRH\OYOSUMVE|Kind=1|AlternatePart= 
+Variation55=Designator=R521|UniqueId=\EXOMJGTR\PRVIPIRH\JYNBGICW|Kind=1|AlternatePart= 
+Variation56=Designator=R540|UniqueId=\EXOMJGTR\PRVIPIRH\ASKPKCWZ|Kind=1|AlternatePart= 
+Variation57=Designator=R652|UniqueId=\EXOMJGTR\BXRDDAOB\RQJAFELH|Kind=1|AlternatePart= 
+Variation58=Designator=R655|UniqueId=\EXOMJGTR\BXRDDAOB\SIRPEWGU|Kind=1|AlternatePart= 
+Variation59=Designator=R657|UniqueId=\EXOMJGTR\BXRDDAOB\UJHXLTUZ|Kind=1|AlternatePart= 
+Variation60=Designator=R659|UniqueId=\EXOMJGTR\BXRDDAOB\KXIQWYJA|Kind=1|AlternatePart= 
+Variation61=Designator=R454|UniqueId=\IXSNIESF\CLEPZZBJ|Kind=1|AlternatePart= 
+Variation62=Designator=C769_U_ADC_PLL1|UniqueId=\AMRILONG\PYGOHVUC|Kind=1|AlternatePart= 
+Variation63=Designator=C227_U_ADC_PLL1|UniqueId=\AMRILONG\NAFGWSXK|Kind=1|AlternatePart= 
+Variation64=Designator=C224_U_ADC_PLL1|UniqueId=\AMRILONG\RDRZGNSD|Kind=1|AlternatePart= 
+Variation65=Designator=C91_U_ADC_PLL1|UniqueId=\AMRILONG\TKQOVGMD|Kind=1|AlternatePart= 
+Variation66=Designator=C769_U_ADC_PLL2|UniqueId=\PUHVFAIK\PYGOHVUC|Kind=1|AlternatePart= 
+Variation67=Designator=C91_U_ADC_PLL2|UniqueId=\PUHVFAIK\TKQOVGMD|Kind=1|AlternatePart= 
+Variation68=Designator=C227_U_ADC_PLL2|UniqueId=\PUHVFAIK\NAFGWSXK|Kind=1|AlternatePart= 
+Variation69=Designator=C224_U_ADC_PLL2|UniqueId=\PUHVFAIK\RDRZGNSD|Kind=1|AlternatePart= 
+Variation70=Designator=C90|UniqueId=\LBQOEYVB\FKDCTRCD|Kind=1|AlternatePart= 
+Variation71=Designator=C89|UniqueId=\LBQOEYVB\QWQOWOMR|Kind=1|AlternatePart= 
+Variation72=Designator=C88|UniqueId=\LBQOEYVB\MQDYGKSU|Kind=1|AlternatePart= 
+Variation73=Designator=C87|UniqueId=\LBQOEYVB\AASGSYAO|Kind=1|AlternatePart= 
+ParamVariationCount=34
 
 [SearchPath1]
 Path=..\ZZ_Libs\*.*
