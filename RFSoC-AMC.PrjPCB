@@ -1282,40 +1282,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KXETJQIY
 
 [Document74]
-DocumentPath=Schlib1.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KYANKNSV
-
-[Document75]
-DocumentPath=Dodatkowe info\Xilinx_AFE_Connector\LPAF-40-03.0-X-08-X-K-TR\LPAF-40-03.0-X-08-X-K-TR.LibPkg
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document76]
 DocumentPath=RFMC_ADC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1332,7 +1298,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document77]
+[Document75]
 DocumentPath=RFMC_DAC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1349,7 +1315,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HWTGVTKP
 
-[Document78]
+[Document76]
 DocumentPath=RFMC_DAC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1366,7 +1332,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document79]
+[Document77]
 DocumentPath=MLVDS_Transceivers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1383,7 +1349,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KSGJKUWF
 
-[Document80]
+[Document78]
 DocumentPath=MLVDS_Transceivers.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1400,7 +1366,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document81]
+[Document79]
 DocumentPath=SD_CARD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1417,7 +1383,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document82]
+[Document80]
 DocumentPath=RFSoC_AMC.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1432,9 +1398,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SCBYFSWQ
+DocumentUniqueId=JWAEIQPI
 
-[Document83]
+[Document81]
 DocumentPath=CDR_WR_oscillators.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1451,7 +1417,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCFXVFCX
 
-[Document84]
+[Document82]
 DocumentPath=CDR_WR_oscillators.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
