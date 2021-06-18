@@ -1,0 +1,323 @@
+[OutputJobFile]
+Version=1.0
+Caption=
+Description=
+VaultGUID=
+ItemGUID=
+ItemHRID=
+RevisionGUID=
+RevisionId=
+VaultHRID=
+AutoItemHRID=
+NextRevId=
+FolderGUID=
+LifeCycleDefinitionGUID=
+RevisionNamingSchemeGUID=
+
+[OutputGroup1]
+Name=RFSoC-AMC.OutJob
+Description=
+TargetOutputMedium=PDF
+VariantName=Si549 CMOS
+VariantScope=1
+CurrentConfigurationName=
+TargetPrinter=Virtual Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputMedium1=Print Job
+OutputMedium1_Type=Printer
+OutputMedium1_Printer=Hewlett-Packard HP LaserJet P2035
+OutputMedium1_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputMedium2=PDF
+OutputMedium2_Type=Publish
+OutputMedium3=Folder Structure
+OutputMedium3_Type=GeneratedFiles
+OutputMedium4=Video
+OutputMedium4_Type=Multimedia
+OutputType1=Schematic Print
+OutputName1=Schematic Prints
+OutputCategory1=Documentation
+OutputDocumentPath1=[Project Physical Documents]
+OutputVariantName1=
+OutputEnabled1=1
+OutputEnabled1_OutputMedium1=0
+OutputEnabled1_OutputMedium2=1
+OutputEnabled1_OutputMedium3=0
+OutputEnabled1_OutputMedium4=0
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=[Project Physical Documents]
+OutputType2=PCB 3D Print
+OutputName2=PCB 3D Print
+OutputCategory2=Documentation
+OutputDocumentPath2=
+OutputVariantName2=
+OutputEnabled2=1
+OutputEnabled2_OutputMedium1=0
+OutputEnabled2_OutputMedium2=2
+OutputEnabled2_OutputMedium3=0
+OutputEnabled2_OutputMedium4=0
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.41|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=71082378|ViewY=58444583|LookAtX=209555360|LookAtY=60483780|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=1.63231552186795E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ImageOutputType=4|ViewConfig= |DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+OutputType3=Board Stack Report
+OutputName3=Report Board Stack
+OutputCategory3=Fabrication
+OutputDocumentPath3=
+OutputVariantName3=
+OutputEnabled3=0
+OutputEnabled3_OutputMedium1=0
+OutputEnabled3_OutputMedium2=0
+OutputEnabled3_OutputMedium3=0
+OutputEnabled3_OutputMedium4=0
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=PCB 3D Print
+OutputName4=Copy of PCB 3D Print
+OutputCategory4=Documentation
+OutputDocumentPath4=
+OutputVariantName4=
+OutputEnabled4=1
+OutputEnabled4_OutputMedium1=0
+OutputEnabled4_OutputMedium2=3
+OutputEnabled4_OutputMedium3=0
+OutputEnabled4_OutputMedium4=0
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.41|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration4_Name1=OutputConfigurationParameter1
+Configuration4_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=71082378|ViewY=58444583|LookAtX=209555360|LookAtY=60483780|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=1.63231552186795E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=False|ScreenWidth=0|ScreenHeight=0|ImageOutputType=1|ViewConfig= |DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC\RFSoC_AMC.PcbDoc
+OutputType5=PCB Print
+OutputName5=PCB Prints
+OutputCategory5=Documentation
+OutputDocumentPath5=
+OutputVariantName5=
+OutputEnabled5=1
+OutputEnabled5_OutputMedium1=0
+OutputEnabled5_OutputMedium2=4
+OutputEnabled5_OutputMedium3=0
+OutputEnabled5_OutputMedium4=0
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=DesignatorDisplayMode=Physical|PrintArea=SpecificArea|PrintAreaLowerLeftCornerX=171850394|PrintAreaLowerLeftCornerY=31141732|PrintAreaUpperRightCornerX=245452756|PrintAreaUpperRightCornerY=90344488|Record=PcbPrintView|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name2=OutputConfigurationParameter2
+Configuration5_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Top overlay|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name3=OutputConfigurationParameter3
+Configuration5_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name4=OutputConfigurationParameter4
+Configuration5_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name5=OutputConfigurationParameter5
+Configuration5_Item5=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=False|Name=1|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name6=OutputConfigurationParameter6
+Configuration5_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name7=OutputConfigurationParameter7
+Configuration5_Item7=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=2|Mirror=False|Name=2|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name8=OutputConfigurationParameter8
+Configuration5_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=InternalPlane1|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name9=OutputConfigurationParameter9
+Configuration5_Item9=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=3|Mirror=False|Name=3|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name10=OutputConfigurationParameter10
+Configuration5_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer1|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name11=OutputConfigurationParameter11
+Configuration5_Item11=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=4|Mirror=False|Name=4|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name12=OutputConfigurationParameter12
+Configuration5_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=InternalPlane2|Polygon=Full|PrintOutIndex=4|Record=PcbPrintLayer|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name13=OutputConfigurationParameter13
+Configuration5_Item13=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=5|Mirror=False|Name=5|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name14=OutputConfigurationParameter14
+Configuration5_Item14=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer2|Polygon=Full|PrintOutIndex=5|Record=PcbPrintLayer|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name15=OutputConfigurationParameter15
+Configuration5_Item15=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=6|Mirror=False|Name=6|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name16=OutputConfigurationParameter16
+Configuration5_Item16=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=InternalPlane3|Polygon=Full|PrintOutIndex=6|Record=PcbPrintLayer|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name17=OutputConfigurationParameter17
+Configuration5_Item17=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=7|Mirror=False|Name=7|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name18=OutputConfigurationParameter18
+Configuration5_Item18=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=InternalPlane4|Polygon=Full|PrintOutIndex=7|Record=PcbPrintLayer|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name19=OutputConfigurationParameter19
+Configuration5_Item19=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=8|Mirror=False|Name=8|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name20=OutputConfigurationParameter20
+Configuration5_Item20=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer3|Polygon=Full|PrintOutIndex=8|Record=PcbPrintLayer|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name21=OutputConfigurationParameter21
+Configuration5_Item21=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=9|Mirror=False|Name=9|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name22=OutputConfigurationParameter22
+Configuration5_Item22=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=InternalPlane5|Polygon=Full|PrintOutIndex=9|Record=PcbPrintLayer|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name23=OutputConfigurationParameter23
+Configuration5_Item23=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=10|Mirror=False|Name=10|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name24=OutputConfigurationParameter24
+Configuration5_Item24=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer4|Polygon=Full|PrintOutIndex=10|Record=PcbPrintLayer|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name25=OutputConfigurationParameter25
+Configuration5_Item25=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=11|Mirror=False|Name=11|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name26=OutputConfigurationParameter26
+Configuration5_Item26=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=InternalPlane6|Polygon=Full|PrintOutIndex=11|Record=PcbPrintLayer|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name27=OutputConfigurationParameter27
+Configuration5_Item27=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=12|Mirror=False|Name=Bot|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name28=OutputConfigurationParameter28
+Configuration5_Item28=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=12|Record=PcbPrintLayer|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name29=OutputConfigurationParameter29
+Configuration5_Item29=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=13|Mirror=False|Name=Bot overlay|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name30=OutputConfigurationParameter30
+Configuration5_Item30=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=13|Record=PcbPrintLayer|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+Configuration5_Name31=OutputConfigurationParameter31
+Configuration5_Item31=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=13|Record=PcbPrintLayer|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+PcbPrintPreferences5=
+OutputType6=Gerber
+OutputName6=Gerber Files
+OutputCategory6=Fabrication
+OutputDocumentPath6=
+OutputVariantName6=
+OutputEnabled6=0
+OutputEnabled6_OutputMedium1=0
+OutputEnabled6_OutputMedium2=0
+OutputEnabled6_OutputMedium3=3
+OutputEnabled6_OutputMedium4=0
+OutputDefault6=0
+Configuration6_Name1=OutputConfigurationParameter1
+Configuration6_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842753~1,16777220~1,16842754~1,16777218~1,16842755~1,16777223~1,16842757~1,16842758~1,16777222~1,16842761~1,16777225~1,16842756~1,16777219~1,16842759~1,16777221~1,16842760~1,16842751~1,16973835~1,16973833~1,16973831~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+OutputType7=NC Drill
+OutputName7=NC Drill Files
+OutputCategory7=Fabrication
+OutputDocumentPath7=
+OutputVariantName7=
+OutputEnabled7=0
+OutputEnabled7_OutputMedium1=0
+OutputEnabled7_OutputMedium2=0
+OutputEnabled7_OutputMedium3=4
+OutputEnabled7_OutputMedium4=0
+OutputDefault7=0
+Configuration7_Name1=OutputConfigurationParameter1
+Configuration7_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\RFSoC_AMC.PcbDoc
+OutputType8=Pick Place
+OutputName8=Generates pick and place files
+OutputCategory8=Assembly
+OutputDocumentPath8=
+OutputVariantName8=
+OutputEnabled8=0
+OutputEnabled8_OutputMedium1=0
+OutputEnabled8_OutputMedium2=0
+OutputEnabled8_OutputMedium3=2
+OutputEnabled8_OutputMedium4=0
+OutputDefault8=0
+Configuration8_Name1=OutputConfigurationParameter1
+Configuration8_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False|GenerateTextFormat=True|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|Filter= |FilterActive=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31|Column#18=Name:Manufacturer1 Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34|Column#19=Name:Package Reference,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37|Column#20=Name:Datasheet Version,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24|Column#21=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55|Column#22=Name:Case,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#23=Name:Mounted,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35|Column#24=Name:PressFit,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44|Column#25=Name:Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46|Column#26=Name:Sense,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47|Column#27=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53|Column#28=Name:Table,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51|Column#29=Name:ComponentHeight,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#30=Name:Device,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26|Column#31=Name:Status,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50|Column#32=Name:Bonding,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#33=Name:Manufacturer1 Example,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33|Column#34=Name:PackageDescription,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38|Column#35=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22|Column#36=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54|Column#37=Name:LatestRevisionDate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29|Column#38=Name:PackageReference,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39|Column#39=Name:Publisher,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45|Column#40=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21|Column#41=Name:SMD,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48|Column#42=Name:CreateDate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23|Column#43=Name:HelpURL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28|Column#44=Name:Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41|Column#45=Name:Manufacturer1 ComponentHeight,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32|Column#46=Name:Power,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43|Column#47=Name:Family,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27|Column#48=Name:Part Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40|Column#49=Name:TC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52|Column#50=Name:Pin Count,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42|Column#51=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30|Column#52=Name:Socket,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49|Column#53=Name:Component Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#54=Name:Author,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#55=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36|Column#56=Name:DatasheetVersion,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25|Column#57=Name:Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:75|Column#58=Name:VCC(Max)(V),Fixed:False,Metric:False,Visible:False,Sort:None,Position:82|Column#59=Name:Schmitt Trigger,Fixed:False,Metric:False,Visible:False,Sort:None,Position:76|Column#60=Name:SnapEDA_Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:78|Column#61=Name:ClassName,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60|Column#62=Name:Operating Temperature Range(C),Fixed:False,Metric:False,Visible:False,Sort:None,Position:70|Column#63=Name:Technology Family,Fixed:False,Metric:False,Visible:False,Sort:None,Position:80|Column#64=Name:MP,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69|Column#65=Name:Generic Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63|Column#66=Name:Logic,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66|Column#67=Name:Sense Comment,Fixed:False,Metric:False,Visible:False,Sort:None,Position:77|Column#68=Name:tpd @ Nom Voltage(Max)(ns),Fixed:False,Metric:False,Visible:False,Sort:None,Position:81|Column#69=Name:Availability,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58|Column#70=Name:ICC @ Nom Voltage(Max)(mA),Fixed:False,Metric:False,Visible:False,Sort:None,Position:64|Column#71=Name:Authorr,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57|Column#72=Name:MF,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68|Column#73=Name:Package Version,Fixed:False,Metric:False,Visible:False,Sort:None,Position:73|Column#74=Name:F @ Nom Voltage(Max)(Mhz),Fixed:False,Metric:False,Visible:False,Sort:None,Position:62|Column#75=Name:Output Drive (IOL/IOH)(Max)(mA),Fixed:False,Metric:False,Visible:False,Sort:None,Position:71|Column#76=Name:Bits(#),Fixed:False,Metric:False,Visible:False,Sort:None,Position:59|Column#77=Name:Output Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:72|Column#78=Name:3-State Output,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56|Column#79=Name:Voltage(Nom)(V),Fixed:False,Metric:False,Visible:False,Sort:None,Position:84|Column#80=Name:Mating Connector,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67|Column#81=Name:Sub-Family,Fixed:False,Metric:False,Visible:False,Sort:None,Position:79|Column#82=Name:VCC(Min)(V),Fixed:False,Metric:False,Visible:False,Sort:None,Position:83|Column#83=Name:Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:61|Column#84=Name:Input Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65|Column#85=Name:Price,Fixed:False,Metric:False,Visible:False,Sort:None,Position:74|DocumentPath=D:\OneDrive - Politechnika Warszawska\Projekty\NESTER\AFC\circuit_board\AMC_FMC_Carrier_v4.PcbDoc
+OutputType9=BOM_PartType
+OutputName9=Bill of Materials
+OutputCategory9=Report
+OutputDocumentPath9=
+OutputVariantName9=
+OutputEnabled9=0
+OutputEnabled9_OutputMedium1=0
+OutputEnabled9_OutputMedium2=0
+OutputEnabled9_OutputMedium3=1
+OutputEnabled9_OutputMedium4=0
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration9_Name1=ColumnNameFormat
+Configuration9_Item1=CaptionAsName
+Configuration9_Name2=General
+Configuration9_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration9_Name3=GroupOrder
+Configuration9_Item3=Comment=True|Footprint=True
+Configuration9_Name4=SortOrder
+Configuration9_Item4=Designator=Up|Comment=Up|Footprint=Up
+Configuration9_Name5=VisibleOrder
+Configuration9_Item5=Comment=120|Description=120|Designator=120|Footprint=120|Manufacturer=100|Manufacturer Part Number=100|Manufacturer1 ComponentHeight=100|Manufacturer1 Example=100|Manufacturer1 Part Number=100|Part Description=100|Part Number=100|Quantity=120
+Configuration9_Name6=VisibleOrder_Flat
+Configuration9_Item6=Comment=120|Description=120|Designator=120|Footprint=120|Manufacturer=100|Manufacturer Part Number=100|Manufacturer1 ComponentHeight=100|Manufacturer1 Example=100|Manufacturer1 Part Number=100|Part Description=100|Part Number=100|Quantity=120
+
+[PublishSettings]
+OutputFilePath2=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\Project Outputs for RFSoC-AMC\Job1.PDF
+ReleaseManaged2=1
+OutputBasePath2=Project Outputs for RFSoC-AMC
+OutputPathMedia2=
+OutputPathMediaValue2=
+OutputPathOutputer2=[Output Type]
+OutputPathOutputerPrefix2=
+OutputPathOutputerValue2=
+OutputFileName2=RFSoC-AMC.PDF
+OutputFileNameMulti2=
+UseOutputNameForMulti2=0
+OutputFileNameSpecial2=
+OpenOutput2=1
+PromptOverwrite2=1
+PublishMethod2=0
+ZoomLevel2=50
+FitSCHPrintSizeToDoc2=1
+FitPCBPrintSizeToDoc2=1
+GenerateNetsInfo2=1
+MarkPins2=1
+MarkNetLabels2=1
+MarkPortsId2=1
+GenerateTOC2=1
+ShowComponentParameters2=1
+GlobalBookmarks2=0
+PDFACompliance2=Disabled
+PDFVersion2=Default
+OutputFilePath3=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\Project Outputs for RFSoC-AMC\
+ReleaseManaged3=1
+OutputBasePath3=Project Outputs for RFSoC-AMC
+OutputPathMedia3=
+OutputPathMediaValue3=
+OutputPathOutputer3=[Output Type]
+OutputPathOutputerPrefix3=
+OutputPathOutputerValue3=
+OutputFileName3=
+OutputFileNameMulti3=
+UseOutputNameForMulti3=1
+OutputFileNameSpecial3=
+OpenOutput3=1
+OutputFilePath4=
+ReleaseManaged4=1
+OutputBasePath4=Project Outputs for RFSoC-AMC
+OutputPathMedia4=
+OutputPathMediaValue4=
+OutputPathOutputer4=[Output Type]
+OutputPathOutputerPrefix4=
+OutputPathOutputerValue4=
+OutputFileName4=
+OutputFileNameMulti4=
+UseOutputNameForMulti4=1
+OutputFileNameSpecial4=
+OpenOutput4=1
+PromptOverwrite4=1
+PublishMethod4=5
+ZoomLevel4=50
+FitSCHPrintSizeToDoc4=1
+FitPCBPrintSizeToDoc4=1
+GenerateNetsInfo4=1
+MarkPins4=1
+MarkNetLabels4=1
+MarkPortsId4=1
+MediaFormat4=Windows Media file (*.wmv,*.wma,*.asf)
+FixedDimensions4=1
+Width4=352
+Height4=288
+MultiFile4=0
+FramesPerSecond4=25
+FramesPerSecondDenom4=1
+AviPixelFormat4=7
+AviCompression4=MP42 MS-MPEG4 V2
+AviQuality4=100
+FFmpegVideoCodecId4=13
+FFmpegPixelFormat4=0
+FFmpegQuality4=80
+WmvVideoCodecName4=Windows Media Video V7
+WmvQuality4=80
+
+[GeneratedFilesSettings]
+RelativeOutputPath2=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\Project Outputs for RFSoC-AMC\Job1.PDF
+OpenOutputs2=1
+RelativeOutputPath3=D:\OneDrive - Politechnika Warszawska\Projekty\RFSoC-AMC_local\Project Outputs for RFSoC-AMC\
+OpenOutputs3=1
+AddToProject3=1
+TimestampFolder3=0
+UseOutputName3=0
+OpenODBOutput3=0
+OpenGerberOutput3=0
+OpenNCDrillOutput3=0
+OpenIPCOutput3=0
+EnableReload3=0
+RelativeOutputPath4=
+OpenOutputs4=1
+
