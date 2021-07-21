@@ -1461,7 +1461,7 @@ UniqueID=FECD5DB2-8784-433A-94BD-B173D94B5882
 Description=Si549 CMOS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=90
+VariationCount=93
 Variation1=Designator=R506|UniqueId=\VAITLAUO\VXNFDXDK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\OneDrive - Politechnika Warszawska\Projekty\ZZ_Libs\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0402_49R9_1%_0.0625W_100PPM|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=R506
@@ -1620,10 +1620,21 @@ Variation87=Designator=C563|UniqueId=\VAITLAUO\GRTXWFSV|Kind=1|AlternatePart=
 Variation88=Designator=C559|UniqueId=\VAITLAUO\PBHQWJKH|Kind=1|AlternatePart= 
 Variation89=Designator=R?|UniqueId=\IXSNIESF\UAKWAWMC|Kind=1|AlternatePart= 
 Variation90=Designator=R456|UniqueId=\RQHAAEXC\AXLKBUCE|Kind=1|AlternatePart= 
+Variation91=Designator=R350|UniqueId=\UETKLNPN\HUNUCRFD|Kind=1|AlternatePart= 
+Variation92=Designator=R351|UniqueId=\UETKLNPN\DHDEEXKI|Kind=1|AlternatePart= 
+Variation93=Designator=R456|UniqueId=\UETKLNPN\HNDILMME|Kind=1|AlternatePart= 
 ParamVariationCount=34
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for RFSoC-AMC\Design Rule Check - RFSoC_AMC2.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for RFSoC-AMC\Design Rule Check - RFSoC_AMC.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for RFSoC-AMC\RFSoC_AMC.tgz
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -3862,6 +3873,36 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
